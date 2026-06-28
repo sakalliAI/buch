@@ -8,8 +8,8 @@ Stand: 2026-06-28
 | Phase | Beschreibung | Status | Gate |
 |-------|--------------|--------|------|
 | 0 | Projektstruktur anlegen | ✅ erledigt | — |
-| 1 | Tiefenrecherche Inhalt | ✅ fertig — wartet auf Freigabe | 🚦 GATE 1 (offen) |
-| 2 | Markt- & Formatrecherche | ⬜ offen | 🚦 GATE 2 |
+| 1 | Tiefenrecherche Inhalt | ✅ freigegeben | 🚦 GATE 1 ✅ |
+| 2 | Markt- & Formatrecherche | ✅ fertig — wartet auf Freigabe | 🚦 GATE 2 (offen) |
 | 3 | Konzept, Titel & Struktur | ⬜ offen | 🚦 GATE 3 |
 | 4 | Schreiben (Kapitel für Kapitel) | ⬜ offen | — |
 | 5 | Quellenapparat & Humanisierungs-Pass | ⬜ offen | — |
@@ -28,7 +28,17 @@ Stand: 2026-06-28
 | b2 | KI heute: Sicherheit, Bias, Datenschutz, Energie | 00_recherche/b2_ki_sicherheit_bias_datenschutz_energie.md | ✅ |
 | c1 | Zukunft: Hot Takes, Szenarien | 00_recherche/c1_zukunft_hottakes.md | ✅ |
 
-**GATE-1-Deliverables:** `00_recherche/RECHERCHE_ZUSAMMENFASSUNG.md` (max. 2 S.) · `QUELLEN.md` (110 Quellen, konsolidiert). → Warten auf „Recherche freigegeben".
+**GATE-1-Deliverables:** `00_recherche/RECHERCHE_ZUSAMMENFASSUNG.md` (max. 2 S.) · `QUELLEN.md` (110 Quellen, konsolidiert). → freigegeben.
+
+## Phase 2 — Markt- & Formatrecherche
+
+| Strang | Inhalt | Datei | Status |
+|--------|--------|-------|--------|
+| p2-1 | Vergleichstitel + Umfangs-Ableitung | 01_konzept/p2_vergleichstitel.md | ✅ |
+| p2-2 | Amazon-KDP-Formatvorgaben | 01_konzept/p2_kdp_format.md | ✅ |
+| p2-3 | Deutsches Sachbuch-Exposé | 01_konzept/p2_expose_konventionen.md | ✅ |
+
+**GATE-2-Deliverable:** `01_konzept/GATE2_MARKT_UMFANG.md` — Empfehlung **288 S. / ~80–85k Wörter / 12 Kapitel in 3 Teilen** + Vergleichstitel-Tabelle (16). → Warten auf Bestätigung.
 
 ## Notizen
 - Repo ist dem Buchprojekt gewidmet; Ordnerstruktur liegt im Repo-Root (statt in einem Unterordner `buch-ki-angst/`), um Verschachtelung zu vermeiden.
