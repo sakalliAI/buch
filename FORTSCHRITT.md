@@ -10,8 +10,8 @@ Stand: 2026-06-28
 | 0 | Projektstruktur anlegen | ✅ erledigt | — |
 | 1 | Tiefenrecherche Inhalt | ✅ freigegeben | 🚦 GATE 1 ✅ |
 | 2 | Markt- & Formatrecherche | ✅ (Zielmarke als Arbeitsbasis übernommen) | 🚦 GATE 2 ✅* |
-| 3 | Konzept, Titel & Struktur | ✅ fertig — wartet auf Freigabe | 🚦 GATE 3 (offen) |
-| 4 | Schreiben (Kapitel für Kapitel) | ⬜ offen | — |
+| 3 | Konzept, Titel & Struktur | ✅ freigegeben | 🚦 GATE 3 ✅ |
+| 4 | Schreiben (Kapitel für Kapitel) | 🟡 in Arbeit | — |
 | 5 | Quellenapparat & Humanisierungs-Pass | ⬜ offen | — |
 | 6 | Word-Dokument bauen | ⬜ offen | — |
 | 7 | KDP-Paket + Verlags-Exposé | ⬜ offen | 🚦 GATE 4 |
@@ -42,7 +42,30 @@ Stand: 2026-06-28
 
 ## Phase 3 — Konzept, Titel & Struktur
 
-**GATE-3-Deliverable:** `01_konzept/GATE3_KONZEPT_STRUKTUR.md` — 12 Titel-Kandidaten (Empfehlung „Erst kam die Angst, dann kam der Alltag"), Stimme/Ansprache (Empfehlung „Du"), vollständiges Inhaltsverzeichnis (3 Teile, 12 Kapitel + Einl./Schluss, ~82.500 W), Dramaturgie. → Warten auf: Titel + Ansprache + Struktur-Freigabe + `{{AUTOR_BIO}}`.
+**GATE-3-Deliverable:** `01_konzept/GATE3_KONZEPT_STRUKTUR.md`. **Entscheidungen (freigegeben):**
+- **Titel:** „Erst kam die Angst, dann kam der Alltag" — UT: *Was Buchdruck, Dampflok und Smartphone über unsere Furcht vor künstlicher Intelligenz verraten*
+- **Ansprache:** „Du"
+- **Struktur:** bestätigt (3 Teile, 12 Kapitel + Einl./Schluss)
+- **Bio:** geliefert → `01_konzept/autor_bio.md` + `01_konzept/stimme_styleguide.md`
+
+## Phase 4 — Schreiben (Kapitel für Kapitel)
+
+| # | Kapitel | Datei | Ziel-W | Status |
+|---|---------|-------|--------|--------|
+| 00 | Einleitung — Wovor hast du eigentlich Angst? | 02_kapitel/00_einleitung.md | ~3.500 | ✅ |
+| 01 | Die Angst ist älter als die Maschine | 02_kapitel/01_*.md | ~6.000 | ⬜ |
+| 02 | Tempo, Strom und der Tod des Abendlands | — | ~6.000 | ⬜ |
+| 03 | „Das Telefon wird die Familie zerstören" | — | ~6.000 | ⬜ |
+| 04 | Warum wir nie aus der Geschichte lernen | — | ~6.000 | ⬜ |
+| 05 | Der Taschenrechner-Moment | — | ~6.500 | ⬜ |
+| 06 | Nimmt die KI mir die Arbeit weg? | — | ~7.000 | ⬜ |
+| 07 | Werden wir dümmer? | — | ~6.500 | ⬜ |
+| 08 | Die echten Risiken | — | ~7.000 | ⬜ |
+| 09 | Die Stimmen der Propheten | — | ~6.500 | ⬜ |
+| 10 | Was vom Menschen bleibt | — | ~6.000 | ⬜ |
+| 11 | Vertrauen ist eine Fähigkeit | — | ~6.000 | ⬜ |
+| 12 | Wovor wir uns wirklich fürchten sollten | — | ~6.000 | ⬜ |
+| 13 | Schluss — Der nächste Alltag | — | ~3.500 | ⬜ |
 
 ## Notizen
 - Repo ist dem Buchprojekt gewidmet; Ordnerstruktur liegt im Repo-Root (statt in einem Unterordner `buch-ki-angst/`), um Verschachtelung zu vermeiden.
