@@ -9,8 +9,8 @@ Stand: 2026-06-28
 |-------|--------------|--------|------|
 | 0 | Projektstruktur anlegen | ✅ erledigt | — |
 | 1 | Tiefenrecherche Inhalt | ✅ freigegeben | 🚦 GATE 1 ✅ |
-| 2 | Markt- & Formatrecherche | ✅ fertig — wartet auf Freigabe | 🚦 GATE 2 (offen) |
-| 3 | Konzept, Titel & Struktur | ⬜ offen | 🚦 GATE 3 |
+| 2 | Markt- & Formatrecherche | ✅ (Zielmarke als Arbeitsbasis übernommen) | 🚦 GATE 2 ✅* |
+| 3 | Konzept, Titel & Struktur | ✅ fertig — wartet auf Freigabe | 🚦 GATE 3 (offen) |
 | 4 | Schreiben (Kapitel für Kapitel) | ⬜ offen | — |
 | 5 | Quellenapparat & Humanisierungs-Pass | ⬜ offen | — |
 | 6 | Word-Dokument bauen | ⬜ offen | — |
@@ -38,7 +38,11 @@ Stand: 2026-06-28
 | p2-2 | Amazon-KDP-Formatvorgaben | 01_konzept/p2_kdp_format.md | ✅ |
 | p2-3 | Deutsches Sachbuch-Exposé | 01_konzept/p2_expose_konventionen.md | ✅ |
 
-**GATE-2-Deliverable:** `01_konzept/GATE2_MARKT_UMFANG.md` — Empfehlung **288 S. / ~80–85k Wörter / 12 Kapitel in 3 Teilen** + Vergleichstitel-Tabelle (16). → Warten auf Bestätigung.
+**GATE-2-Deliverable:** `01_konzept/GATE2_MARKT_UMFANG.md` — Empfehlung **288 S. / ~80–85k Wörter / 12 Kapitel in 3 Teilen** + Vergleichstitel-Tabelle (16). *(\*als Arbeitsbasis übernommen, an GATE 3 noch änderbar.)*
+
+## Phase 3 — Konzept, Titel & Struktur
+
+**GATE-3-Deliverable:** `01_konzept/GATE3_KONZEPT_STRUKTUR.md` — 12 Titel-Kandidaten (Empfehlung „Erst kam die Angst, dann kam der Alltag"), Stimme/Ansprache (Empfehlung „Du"), vollständiges Inhaltsverzeichnis (3 Teile, 12 Kapitel + Einl./Schluss, ~82.500 W), Dramaturgie. → Warten auf: Titel + Ansprache + Struktur-Freigabe + `{{AUTOR_BIO}}`.
 
 ## Notizen
 - Repo ist dem Buchprojekt gewidmet; Ordnerstruktur liegt im Repo-Root (statt in einem Unterordner `buch-ki-angst/`), um Verschachtelung zu vermeiden.
