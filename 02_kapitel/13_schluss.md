@@ -12,11 +12,9 @@ Im Keller sitzt ein Kasten mit Sicherungen, und darin sitzt ein Schutzschalter, 
 
 Auf dem Stecker der Stehlampe klebt ein Prüfzeichen. Hinter dem Prüfzeichen steht ein Labor, hinter dem Labor eine Vorschrift, hinter der Vorschrift ein Gesetzgeber. Es gibt einen Hersteller, der haftet, wenn das Ding brennt. Es gibt eine Versicherung, die dann zahlt. Es gibt ein Gericht, das entscheidet, wer recht hat. Und es gibt einen Handwerker, der das alles verbaut hat und dafür eine Prüfung abgelegt hat, in der er unter anderem lernen musste, was passiert, wenn man es falsch macht.
 
-Und dann kommt die Schicht, die man am leichtesten übersieht. Kaum eine dieser Regeln ist am Reißbrett entstanden. Die meisten sind Antworten. Irgendwo hat es gebrannt, irgendwo ist jemand gestorben, irgendwo hat ein Gericht entschieden, wer zahlt — und daraus wurde ein Satz in einem Regelwerk, den heute niemand mehr liest, weil er einfach befolgt wird. Das ist meine Deutung, kein Archivbefund. Aber ich habe noch keine Sicherheitsvorschrift kennengelernt, die aus reiner Vorfreude geschrieben wurde.
+Und dann kommt die Schicht, die man am leichtesten übersieht. Kaum eine dieser Regeln ist am Reißbrett entstanden, die meisten sind Antworten. Irgendwo hat es gebrannt, irgendwo ist jemand gestorben, irgendwo hat ein Gericht entschieden, wer zahlt — und daraus wurde ein Satz in einem Regelwerk, den heute niemand mehr liest, weil er einfach befolgt wird. Das ist meine Deutung, kein Archivbefund. Aber ich kenne keine Sicherheitsvorschrift, die aus reiner Vorfreude geschrieben wurde.
 
 Nichts davon ist Physik. Die Physik war der leichte Teil. Elektronen wandern schon durch Leiter, seit es Leiter gibt, ganz ohne uns. Das andere, dieser ganze unsichtbare Apparat aus Normen, Farben, Prüfzeichen, Ausbildungen und Haftungsregeln, ist reine Menschenarbeit. Jahrzehnte davon, verteilt über Gremien, Prüflabore, Gerichtssäle, Berufsschulen und Baustellen. Ich habe irgendwann aufgehört zu zählen.
-
-Keiner dieser Menschen wird je erfahren, dass ich abends in meinem Flur an ihn denke. Das ist die undankbarste Form von Erfolg, die es gibt: Man bemerkt sie nur, wenn sie fehlt.
 
 Und der ganze Aufwand hat genau ein Ziel: dass ich abends im Dunkeln draufhauen kann, ohne nachzudenken.
 
@@ -38,7 +36,7 @@ Die Fahne und der Pferdekopf haben etwas gemeinsam. Beide behandeln das Fahrzeug
 
 Es lohnt sich, kurz zu übersetzen, was diese Wörter eigentlich bedeuten. Ein Nummernschild heißt: Diese Maschine ist einer Person zuordenbar, immer, auch wenn sie wegfährt. Eine Pflichtversicherung heißt: Der Schaden bleibt nicht am Opfer hängen, nur weil der Verursacher arm ist. Eine Fahrprüfung heißt: Wir haben entschieden, diese Maschine nicht jedem in die Hand zu geben, der sie bezahlen kann. Jedes einzelne dieser Dinge war einmal neu, wurde diskutiert, kostete Geld und ärgerte irgendwen. Zusammen sorgen sie dafür, dass du dein Kind heute morgens allein zur Schule laufen lässt, durch eine Stadt voller Zweitonnen-Geschosse, und dabei nicht das Gefühl hast, etwas Verrücktes zu tun.
 
-Mein Lieblingsstück in dieser Aufzählung ist der Gurt, weil er so klein ist. Ein Band aus Gewebe, ein Schloss, eine Aufrollmechanik; das Technische daran ist in einem Nachmittag erklärt. Alles Schwierige an diesem Band war sozial: dass er eingebaut wird, dass er geprüft wird, dass er angelegt wird, dass man sich beim Anlegen nicht bevormundet fühlt. Ungefähr in dieser Reihenfolge war es auch schwierig.
+Am Gurt lässt sich das am kürzesten zeigen. Ein Band aus Gewebe, ein Schloss, eine Aufrollmechanik; das Technische daran ist in einem Nachmittag erklärt. Alles Schwierige an diesem Band war sozial: dass er eingebaut wird, dass er geprüft wird, dass er angelegt wird, dass man sich beim Anlegen nicht bevormundet fühlt.
 
 Und beim Buchdruck war es nicht anders, wie du im ersten Kapitel gesehen hast. Register und Inhaltsverzeichnisse, Seitenzahlen, Titelblätter, Bibliografien, Zitierregeln, Quellenkritik, Verlagsruf, Bibliotheken, Urheberrecht, Presserecht, irgendwann der wissenschaftliche Begutachtungsbetrieb. Nichts davon war eine Eigenschaft der Druckerpresse. Alles davon war die Antwort auf sie.
 

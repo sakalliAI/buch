@@ -8,7 +8,7 @@ Der zweite Einwand kam von einer Kollegin aus einem ganz anderen Bereich, und er
 
 Der erste Einwand war Unsinn. Der zweite war exakt richtig. Er ist übrigens bei uns eingetreten, in abgeschwächter Form, und wir haben Monate damit verbracht, das wieder geradezuziehen.
 
-Beide Sätze wurden im selben Tonfall gesagt, in ähnlichen Meetings, von Leuten mit vergleichbarer Erfahrung. Von außen sahen sie gleich aus. Wenn ich damals ein Verfahren gehabt hätte, um sie auseinanderzuhalten, hätte ich mir eine Menge Arbeit gespart.
+Beide Sätze fielen im selben Tonfall, in ähnlichen Meetings, von Leuten mit vergleichbarer Erfahrung. Von außen sahen sie gleich aus. Ein Verfahren, um sie auseinanderzuhalten, hätte mir damals eine Menge Arbeit gespart.
 
 Ich erzähle das, weil ich dich in den letzten Kapiteln durch eine ziemlich einseitige Beweisführung geführt habe. Trithemius irrte sich. Die bayerische Ärztewarnung gab es vermutlich nie. Das Telefon hat die Familie nicht zerstört, das Fernsehen die Kinder nicht verblödet. Wenn ich jetzt so weitermachen würde, hättest du am Ende des Buches ein sehr angenehmes Gefühl und keinerlei Urteilsvermögen. Du hättest gelernt: Technikangst ist immer übertrieben. Und das ist falsch.
 
