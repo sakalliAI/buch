@@ -22,9 +22,9 @@ Um zu verstehen, warum der Name trifft, muss man kurz ins Jahr 1950 zurück.
 
 Alan Turing veröffentlichte damals in der philosophischen Zeitschrift *Mind* einen Aufsatz mit dem Titel „Computing Machinery and Intelligence". Er beginnt mit der Frage, ob Maschinen denken können, und legt sie fast im selben Atemzug beiseite. Nicht, weil sie zu schwer wäre. Weil sie zu schlecht gestellt ist. Man müsste zuerst klären, was „Maschine" bedeutet und was „denken", und über Definitionen kann man streiten, bis alle Beteiligten in Rente sind. Turing schlug einen Ersatz vor, ein Spiel. Ein Mensch sitzt an einer Schreibmaschinenverbindung und stellt Fragen. Zwei Gegenüber antworten, ein Mensch und eine Maschine, beide ausschließlich über Text, damit weder Stimme noch Aussehen etwas verraten. Wenn der Fragende nach einer Weile nicht mehr zuverlässig sagen kann, wer von beiden wer ist, dann hat es wenig Sinn, der Maschine das Denken weiter abzusprechen.[14]
 
-Ich finde diesen Zug bis heute großartig. Turing hat eine unbeantwortbare Frage gegen eine beantwortbare getauscht. Nicht: Was *ist* das Ding? Sondern: Was *tut* es, und woran genau würde ich einen Unterschied bemerken? Das ist die Sorte Umbau, die eine festgefahrene Debatte rettet, und wir könnten in der KI-Diskussion mehr davon gebrauchen.
+Ich finde diesen Zug bis heute großartig. Turing hat eine unbeantwortbare Frage gegen eine beantwortbare getauscht. Nicht: Was *ist* das Ding? Sondern: Was *tut* es, und woran würde ich einen Unterschied bemerken? Das ist die Sorte Umbau, die eine festgefahrene Debatte rettet.
 
-Es war allerdings als Gedankenexperiment gemeint. Als Prüfstein für eine philosophische Frage. Nicht als Pflichtenheft.
+Gemeint war das als Gedankenexperiment. Als Prüfstein für eine philosophische Frage, nicht als Pflichtenheft.
 
 Genau das ist daraus geworden. Ein Maßstab, der lange genug an der Wand hängt, hört irgendwann auf, ein Maßstab zu sein, und wird ein Ziel. Seit siebzig Jahren misst sich das Fach am Menschen: Erkennt das System Sprache so gut wie ein Mensch, übersetzt es so gut, besteht es die Prüfung, die für Menschen gedacht war? Auch die Werbung heutiger Anbieter lebt davon. „Auf dem Niveau eines erfahrenen Fachmanns" ist ein sehr wirksames Verkaufsargument, weil jeder Einkäufer sofort weiß, was so ein Fachmann kostet.
 
@@ -50,11 +50,11 @@ Was für Anreize das konkret sind, sehe ich in meinem Beruf jede Woche. Was jetz
 
 Der stärkste Anreiz ist die Messbarkeit. Eine eingesparte Stelle ist eine Zahl. Sie hat ein Vorzeichen, eine Währung und ein Datum, ab dem sie wirkt. „Die Kollegin sieht künftig mehr Fälle und entscheidet besser" ist keine Zahl. Es ist eine Behauptung, die man erst in zwei Jahren belegen kann, und bis dahin hat der, der das Angebot unterschrieben hat, vermutlich eine andere Rolle. Ein Business Case ist kein neutrales Blatt Papier. Er ist ein Formular, und Formulare haben Felder. Was kein Feld hat, kommt nicht vor.
 
-Der zweite Anreiz sind die Kosten der Übergabe. Ich habe es oben schon geschrieben, weil es der teuerste Satz meines Berufs ist: Schnittstellen zum Menschen sind das Aufwendigste, was man bauen kann. Ein System, das durchläuft, braucht eine Datenquelle und ein Zielsystem. Ein System, das einem Menschen etwas vorlegt, braucht eine Oberfläche, eine Begründung, einen Rückkanal, eine Rechteverwaltung, eine Schulung, und es braucht jemanden, der sich überlegt, wie die Information aussehen muss, damit ein Mensch sie in zwanzig Sekunden prüfen kann. Das ist Handwerk, und Handwerk steht im Angebot.
+Der zweite Anreiz sind die Kosten der Übergabe. Ein System, das durchläuft, braucht eine Datenquelle und ein Zielsystem. Ein System, das einem Menschen etwas vorlegt, braucht Oberfläche, Begründung, Rückkanal, Rechteverwaltung, Schulung — und jemanden, der sich überlegt, wie die Information aussehen muss, damit ein Mensch sie in zwanzig Sekunden prüfen kann. Das ist Handwerk, und Handwerk steht im Angebot.
 
 Der dritte Anreiz ist der Zeithorizont. Automatisierung zahlt sich im ersten Jahr aus. Augmentation zahlt sich über eine Lernkurve aus, und Lernkurven fangen unten an. In den ersten Wochen ist das augmentierte Team langsamer als vorher, weil die Leute ein neues Werkzeug bedienen und ihm gleichzeitig misstrauen. Wer nur bis zum nächsten Quartalsbericht schaut, sieht an dieser Stelle eine Verschlechterung.
 
-Der vierte Anreiz ist der subtilste, und ich habe lange gebraucht, ihn zu benennen. Wer den Nutzen hat, sitzt nicht am Tisch. Der Gewinn der Augmentation fällt bei der Person an, die den Prozess ausführt, und ein Stück weit bei den Kunden, die schneller eine bessere Antwort bekommen. Der Gewinn der Automatisierung fällt in der Kostenstelle an, aus der das Projekt bezahlt wird. Beides ist Wert. Nur eines davon steht auf demselben Blatt wie die Rechnung.
+Der vierte Anreiz ist der subtilste: Wer den Nutzen hat, sitzt nicht am Tisch. Der Gewinn der Augmentation fällt bei der Person an, die den Prozess ausführt, und bei den Kunden, die schneller eine bessere Antwort bekommen. Der Gewinn der Automatisierung fällt in der Kostenstelle an, aus der das Projekt bezahlt wird. Beides ist Wert. Nur eines davon steht auf demselben Blatt wie die Rechnung.
 
 Kein einzelner dieser Punkte ist böse. Zusammen ergeben sie eine Schräge, und Wasser fließt bergab. Deshalb halte ich es für falsch, nach Schuldigen zu suchen. Man muss die Schräge ändern, nicht die Leute beschimpfen, die daran hinunterrutschen.
 
@@ -72,9 +72,9 @@ Die Fähigkeiten der Person wachsen, statt zu verkümmern. Ein Vorschlag mit Beg
 
 Und die Person kann Nein sagen, ohne sich zu rechtfertigen. Wenn das Abweichen vom Vorschlag ein Sonderformular verlangt, liegt die Entscheidung faktisch nicht mehr beim Menschen, egal was im Konzept steht.
 
-Ich will nicht so tun, als ginge das immer. Es gibt Prozesse, in denen kein menschliches Urteil mehr steckt, das man erweitern könnte. Wer dort einen Menschen hinsetzt, damit er auf „Bestätigen" klickt, betreibt Theater und bezahlt es auch noch. Solche Prozesse gehören automatisiert oder abgeschafft, und ich habe kein schlechtes Gewissen dabei. Die Turing-Falle ist keine Aufforderung, überall einen Menschen dazwischenzuschieben. Sie ist die Aufforderung, die Frage überhaupt zu stellen, statt sie durch die Voreinstellung beantworten zu lassen.
+Ich will nicht so tun, als ginge das immer. Es gibt Prozesse, in denen kein menschliches Urteil mehr steckt, das man erweitern könnte. Wer dort einen Menschen hinsetzt, damit er auf „Bestätigen" klickt, betreibt Theater und bezahlt es auch noch. Solche Prozesse gehören automatisiert oder abgeschafft. Die Turing-Falle ist keine Aufforderung, überall einen Menschen dazwischenzuschieben, sondern die Aufforderung, die Frage überhaupt zu stellen, statt sie durch die Voreinstellung beantworten zu lassen.
 
-Und noch eine Ehrlichkeit gehört dazu: Brynjolfssons Aufsatz ist eine ökonomische Analyse und eine Position, keine Messung.[1] Er sagt nicht, dass die Welt untergeht, wenn wir automatisieren. Er sagt, dass wir eine Wahl treffen und so tun, als hätten wir keine.
+Und Brynjolfssons Aufsatz ist eine ökonomische Analyse und eine Position, keine Messung.[1] Er sagt nicht, dass die Welt untergeht, wenn wir automatisieren. Er sagt, dass wir eine Wahl treffen und so tun, als hätten wir keine.
 
 ## Was die Kanarienvögel anzeigen
 
@@ -128,7 +128,7 @@ Das Design: 1.000 Personen erhielten drei Jahre lang 1.000 Dollar im Monat, eine
 
 Das ist ein bemerkenswertes Ergebnis, und es räumt mit einem Vorurteil auf, das ich selbst lange hatte. Wer Geld ohne Bedingung bekommt, hört nicht auf zu arbeiten. Er atmet durch. Fünf Stunden im Monat sind ein Nachmittag.
 
-Ich habe mich gefragt, warum mich dieser Befund überrascht hat, und die Antwort ist unangenehm. Ich hatte, ohne es je geprüft zu haben, unterstellt, dass Menschen nur arbeiten, weil sie müssen. Das sagt mehr über das Menschenbild aus, mit dem ich groß geworden bin, als über die Menschen.
+Warum mich das überrascht hat, ist die unangenehmere Frage. Ich hatte, ohne es je geprüft zu haben, unterstellt, dass Menschen nur arbeiten, weil sie müssen.
 
 Bevor jemand daraus zu viel macht, die Grenzen. Drei Jahre sind nicht für immer; wer weiß, dass das Geld endet, plant anders als jemand mit dauerhafter Zusage. Tausend Menschen sind keine Gesellschaft; die Wirkung eines Grundeinkommens hängt daran, was passiert, wenn *alle* es haben, und das misst kein Feldversuch. Das Geld kam von außen, nicht aus Steuern derselben Leute, die es bekommen; über Finanzierbarkeit sagt der Versuch damit nichts. Und dass der Zugewinn an medizinischer Versorgung so deutlich ausfällt, heißt in einem Land ohne allgemeine Krankenversicherung etwas anderes als hier. Das ist meine Einordnung, nicht die der Autoren.
 
@@ -162,9 +162,9 @@ In der Schulzeit kamen die ersten kleinen Programme dazu, gebaut mit Visual Stud
 
 Später kam die Chance, ein RPA-Team mitaufzubauen. Ich wurde Entwickler mit UiPath, und meine erste Automatisierung war ein Bot, der Stundenbuchungen zwischen zwei Systemen synchronisierte, die nicht miteinander reden konnten. Das ist so unspektakulär, wie es klingt, und es hat trotzdem einiges verändert. Zwei Dinge sind mir davon geblieben. Das eine ist die Reaktion der Kollegin, die dieses Buch anfängt. Das andere ist eine Frage, die ich damals nicht gestellt habe: ob es diese zwei Systeme überhaupt braucht. Ich habe eine Brücke gebaut, wo eine Abrissbirne die bessere Antwort gewesen wäre. Wenn ich heute in dem Besprechungsraum sitze, aus dem dieses Kapitel kommt, ist das die Frage, mit der ich anfange, und ich verdanke sie einem Fehler.
 
-Es war frühe RPA-Zeit, und viele waren skeptisch bis ängstlich. Ich habe das damals für Rückständigkeit gehalten. Das war jung und dumm. Diese Leute hatten schlicht besser verstanden als ich, dass die eigentliche Frage nicht die Technik ist, sondern was mit ihnen passieren soll, wenn die Technik da ist. Darauf hatte ich keine Antwort, und ich habe so getan, als sei die Frage unangebracht.
+Es war frühe RPA-Zeit, und viele waren skeptisch bis ängstlich. Ich habe das für Rückständigkeit gehalten. Das war jung und dumm. Diese Leute hatten besser verstanden als ich, dass die eigentliche Frage nicht die Technik ist, sondern was mit ihnen passieren soll, wenn die Technik da ist. Darauf hatte ich keine Antwort und tat so, als sei die Frage unangebracht.
 
-Parallel habe ich studiert und in einer Facharbeit die These vertreten, die dieses Buch trägt: Automatisierung nimmt nicht die Jobs, sie verschiebt die Tätigkeit, so wie fast immer in der Geschichte. Ich stehe zu dem Satz. Aber ich habe ihn damals geschrieben, ohne den Preis dieser Verschiebung von nahem gesehen zu haben. Man kann als Zweiundzwanzigjähriger recht haben und trotzdem nicht wissen, wovon man redet.
+Parallel habe ich studiert und in einer Facharbeit die These vertreten, die dieses Buch trägt: Automatisierung nimmt nicht die Jobs, sie verschiebt die Tätigkeit, so wie fast immer in der Geschichte. Ich stehe zu dem Satz. Geschrieben habe ich ihn allerdings, ohne den Preis dieser Verschiebung je von nahem gesehen zu haben. Man kann als Student recht haben und trotzdem nicht wissen, wovon man redet.
 
 Heute führe ich ein Team, das andere Teams führt, und schreibe kaum noch produktiven Code. Was ich stattdessen tue, ist zu großen Teilen genau das, was in diesem Kapitel steht: in Räumen sitzen, in denen zwei Entwürfe auf dem Tisch liegen. Wir arbeiten quer durch die Werkzeugkiste, regelbasiert wie KI-gestützt, je nachdem, was der Fall verlangt. Nichts hat mich so zuverlässig vor Technikbegeisterung geschützt wie die Verantwortung dafür, dass das Zeug hinterher auch läuft.
 
@@ -210,7 +210,7 @@ Denn alles, was ich in diesem Kapitel über Ermächtigung geschrieben habe, hat 
 
 Zugang klingt nach einer erledigten Sache, weil fast jeder ein Handy hat. Ist es nicht. Die Werkzeuge, mit denen man wirklich etwas bauen kann, laufen auf einem Rechner, brauchen eine stabile Verbindung und taugen in der kostenlosen Version oft gerade so weit, dass man den Unterschied ahnt. Zwanzig Euro im Monat sind für die einen ein Rundungsfehler und für die anderen eine Entscheidung gegen etwas anderes.
 
-Zeit ist die Voraussetzung, über die am seltensten geredet wird, und ich halte sie für die härteste. Den Abend, an dem ich mir ein Programm baue, hat nicht jeder. Wer im Schichtdienst arbeitet, wer zwei Jobs hat, wer kleine Kinder ins Bett bringt oder ein Elternteil pflegt, hat abends keine zusammenhängende Stunde, und in Bruchstücken von zehn Minuten lernt man das nicht. Weiterbildung außerhalb der Arbeitszeit ist deshalb keine neutrale Regel. Sie ist eine Auswahl, die so tut, als sei sie keine.
+Zeit ist die Voraussetzung, über die am seltensten geredet wird, und die härteste. Den Abend, an dem ich mir ein Programm baue, hat nicht jeder. Wer im Schichtdienst arbeitet, zwei Jobs hat, Kinder ins Bett bringt oder ein Elternteil pflegt, hat abends keine zusammenhängende Stunde, und in Bruchstücken von zehn Minuten lernt man das nicht. Weiterbildung außerhalb der Arbeitszeit ist deshalb keine neutrale Regel. Sie ist eine Auswahl, die so tut, als sei sie keine.
 
 Und Bildung, womit ich nicht Abschlüsse meine, sondern genug Vorwissen, um zu erkennen, wann die Maschine Unsinn erzählt. Ohne das ist das Werkzeug kein Hebel, sondern eine Falle, denn es klingt bei Unsinn genauso souverän wie bei der richtigen Antwort. Das nächste Kapitel handelt fast nur davon.
 

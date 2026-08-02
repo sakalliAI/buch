@@ -50,9 +50,9 @@ Und die Lehrerin von 1975? Für ihre Zehntklässler lag sie daneben. Für die vi
 
 ## Ein Viertel bis die Hälfte
 
-Bevor wir zum Internet gehen, ein Zwischenfall, der selten erzählt wird, weil er unspektakulär ausging. Er ist trotzdem wichtig, weil er zeigt, wie eine Technikangst aussieht, die einfach nur verschwindet.
+Ein Zwischenfall, der selten erzählt wird, weil er unspektakulär ausging — und der trotzdem zeigt, wie eine Technikangst aussieht, die einfach nur verschwindet.
 
-Als in den achtziger Jahren die Computer in die Büros, Behörden und Schulen kamen, entstand parallel zur großen Rationalisierungsdebatte eine ganz kleine, private Angst: die vor dem Gerät auf dem eigenen Tisch. Die Forschung nahm sie ernst genug, um sie zu benennen. Die ersten wissenschaftlichen Arbeiten zur „computer anxiety" erschienen Anfang der achtziger Jahre; Rosen und Weil ordneten sie 1990 in den breiteren Rahmen der Technophobie ein.[6] Die Prävalenzzahlen sind das Bemerkenswerte daran: In praktisch jeder getesteten Gruppe — Polizistinnen, Lehrkräfte, Büroangestellte, Studierende, Schulkinder — berichtete rund ein Viertel bis die Hälfte ein gewisses Maß an Angst vor Informationstechnik.[6]
+Als in den achtziger Jahren die Computer in Büros, Behörden und Schulen kamen, entstand neben der großen Rationalisierungsdebatte eine ganz kleine, private Angst: die vor dem Gerät auf dem eigenen Tisch. Die Forschung nahm sie ernst genug, um sie zu benennen. Die ersten wissenschaftlichen Arbeiten zur „computer anxiety" erschienen Anfang der achtziger Jahre; Rosen und Weil ordneten sie 1990 in den breiteren Rahmen der Technophobie ein.[6] Die Prävalenzzahlen sind das Bemerkenswerte daran: In praktisch jeder getesteten Gruppe — Polizistinnen, Lehrkräfte, Büroangestellte, Studierende, Schulkinder — berichtete rund ein Viertel bis die Hälfte ein gewisses Maß an Angst vor Informationstechnik.[6]
 
 Ein Viertel bis die Hälfte. Das ist keine Randgruppe von Technikverweigerern, das ist ein Querschnitt der arbeitenden Bevölkerung. Und es hat sich aufgelöst, ohne dass jemand ein Programm dagegen aufgelegt hätte. Die Angst nahm mit Verbreitung und Erfahrung ab; wer mehr benutzte, hatte weniger davon.[6]
 
@@ -66,7 +66,7 @@ Die Computerangst gehört damit in eine eigene Kategorie: eine Angst, die real w
 
 ## Ein sehr kluger Mann liegt sehr falsch
 
-Am 26. Februar 1995 erschien in *Newsweek* ein Artikel unter der Überschrift „Why the Web Won't Be Nirvana". Geschrieben hatte ihn Clifford Stoll, Astronom, früher Internet-Insider, ein Mann, der das Netz kannte, lange bevor es Mode war. Er hatte Mitte der achtziger Jahre einen Hacker über internationale Netzwerke verfolgt und darüber ein gefeiertes Buch geschrieben. Wenn 1995 irgendjemand qualifiziert war, über die Zukunft des Internets zu urteilen, dann er.
+Am 26. Februar 1995 erschien in *Newsweek* ein Artikel unter der Überschrift „Why the Web Won't Be Nirvana". Geschrieben hatte ihn Clifford Stoll, Astronom, früher Internet-Insider, ein Mann, der das Netz kannte, lange bevor es Mode war. Wenn 1995 irgendjemand qualifiziert war, über die Zukunft des Internets zu urteilen, dann er.
 
 Sein Kernsatz lautet:[8]
 
@@ -86,7 +86,7 @@ Das ist keine Marotte von 1995. Genau denselben Fehler machen heute beide Lager 
 
 ## Drei Ängste vor dem Internet, drei verschiedene Ausgänge
 
-Stoll ist der Fall, den alle kennen, weil er so schön eindeutig ist. Die drei anderen großen Internetängste der neunziger Jahre sind lehrreicher, weil sie eben nicht eindeutig ausgingen — jede auf ihre eigene Art.
+Stoll ist der Fall, den alle kennen, weil er so schön eindeutig ist. Die drei anderen großen Internetängste der neunziger Jahre sind lehrreicher, weil sie nicht eindeutig ausgingen — jede auf ihre eigene Art.
 
 **Erstens die Vereinsamung.** 1998 erschien im *American Psychologist* die HomeNet-Studie von Robert Kraut und Kollegen. Sie hatten 93 Haushalte durch ihre ersten zwölf bis achtzehn Monate im Netz begleitet. Der Befund war unangenehm: Wer das Internet mehr nutzte, wurde tendenziell einsamer, sozial weniger eingebunden und depressiver.[9] Die Autoren nannten das Ergebnis das „Internet-Paradox" — ein soziales Medium, das offenbar das Gegenteil bewirkte. Das war kein Kommentar und keine Vermutung. Das war eine Längsschnittstudie in einer der wichtigsten Fachzeitschriften des Fachs, und sie bestätigte genau die Sorge, über die man sich damals lustig machte.
 
@@ -112,7 +112,7 @@ Und jetzt der Fall, der die Balance im Buch herstellt.
 
 1888 brachte George Eastman die Kodak Nr. 1 heraus. Eine Box-Kamera, ab Werk mit Film für hundert Aufnahmen geladen, für 25 Dollar, dazu der Slogan „You press the button, we do the rest" — man schickte die gesamte Kamera zur Entwicklung nach Rochester zurück.[13] Zum ersten Mal konnte eine bürgerliche Mittelschicht ohne Ausbildung, ohne Stativ, ohne Vorbereitung Momentaufnahmen machen. Und zwar überall.
 
-Überall ist das entscheidende Wort. Bis dahin war Fotografiertwerden ein verabredeter Vorgang: Man ging zum Fotografen, setzte sich hin, hielt still. Jetzt konnte dich jemand ablichten, ohne dass du es merktest, und du erfuhrst davon erst, wenn das Bild irgendwo auftauchte.
+Überall ist das entscheidende Wort. Bis dahin war Fotografiertwerden ein verabredeter Vorgang: Man ging zum Fotografen, setzte sich hin, hielt still. Jetzt erfuhrst du davon erst, wenn das Bild irgendwo auftauchte.
 
 Die Reaktion kam prompt und war heftig. Es entstand ein Schmähbegriff für den neuen Plagegeist, der jeden per Knopfdruck festhalten konnte: der „Kodak fiend", der Kodak-Teufel. Zeitungen und Literatur griffen ihn auf, ein Gedicht von Joel Benton warnte 1894 vor ihm, die *Hawaiian Gazette* warnte vor diesen Fotografen. In Seebädern tauchte der „camera fiend" auf, der Badende heimlich ablichtete; ein Aushang soll sinngemäß gelautet haben, es sei den Leuten verboten, ihre Kodaks am Strand zu benutzen. Zeitweise waren Kodaks am Washington Monument untersagt.[14] Diese Einzelanekdoten sind zeittypisch und nicht alle gleich gut gesichert; der Kern aber — Verbote, Empörung, ein neues Wort für die neue Zumutung — ist es.
 
@@ -134,7 +134,7 @@ Und stell den Kodak-Fall neben *Reno v. ACLU*. Warren und Brandeis benannten ein
 
 Das kurioseste Detail stammt nicht von den Kritikern, sondern vom Hersteller. Sony-Chef Akio Morita sorgte sich selbst um antisoziales Verhalten und ließ den ersten Walkman deshalb mit einer zweiten Kopfhörerbuchse ausstatten, damit zwei Leute gleichzeitig hören konnten.[16] Niemand wollte sie. Die Leute wollten allein hören.
 
-Ich mag diese Anekdote, weil sie eine Sorte Irrtum zeigt, die im Buch sonst kaum vorkommt: Morita lag nicht falsch in der Beobachtung, sondern in der Bewertung. Die Leute kapselten sich tatsächlich ab. Das war keine Einbildung der Kulturkritiker. Es wurde nur nicht als Defekt behandelt, sondern als Wahlfreiheit — und irgendwann fiel niemandem mehr auf, dass es je ein Thema gewesen war. Nicht jede Angst wird widerlegt. Manche wird umgewertet.
+Diese Anekdote zeigt eine Sorte Irrtum, die im Buch sonst kaum vorkommt: Morita lag nicht in der Beobachtung falsch, sondern in der Bewertung. Die Leute kapselten sich tatsächlich ab, das war keine Einbildung der Kulturkritiker. Es wurde nur nicht als Defekt behandelt, sondern als Wahlfreiheit. Nicht jede Angst wird widerlegt. Manche wird umgewertet.
 
 Der Verkehrsteil der Sorge ging anders aus. Eine Studie von Lichenstein und Kollegen dokumentierte für die USA zwischen 2004 und 2011 116 Fälle von Tod oder Verletzung kopfhörertragender Fußgänger, mit mehr als einer Verdreifachung der jährlichen Fälle über sechs Jahre, rund 70 Prozent davon tödlich. Als Mechanismen nennen die Autoren Unaufmerksamkeitsblindheit und schlicht das Übertönen von Warnsignalen.[17] Das ist ein realer Schadensmechanismus, und er ist genau der, vor dem 1980 gewarnt wurde.
 
@@ -146,7 +146,7 @@ Die Vereinzelungs-Apokalypse trat nicht ein, die Verkehrssorge hatte einen Kern.
 
 Bleiben wir bei den Fällen, in denen nicht entwarnt werden darf. Das Smartphone ist der beste, weil hier alles gleichzeitig vorkommt: robuste Befunde, wacklige Befunde und ein offener wissenschaftlicher Streit. Ich sortiere sie dir bewusst in diese drei Stufen, denn die Stufe ist wichtiger als der Befund.
 
-**Stufe eins, robust belegt: der Schlaf.** Meta-Analysen und Übersichtsarbeiten verknüpfen nächtliche Bildschirm- und Smartphone-Nutzung mit kürzerer Schlafdauer, schlechterer Schlafqualität und Tagesmüdigkeit; als Mechanismen gelten die Verdrängung von Schlafzeit, kognitiv aktivierende Inhalte und die Melatonin-Unterdrückung durch Blaulicht.[18] Wenn dir jemand sagt, das sei Kulturpessimismus, dann hat er die Literatur nicht gelesen. Von allen Smartphone-Sorgen steht diese am festesten — und sie ist zugleich die einzige, bei der jeder Einzelne sofort etwas ändern kann, ohne auf Politik, Plattformen oder Forschung zu warten.
+**Stufe eins, robust belegt: der Schlaf.** Meta-Analysen und Übersichtsarbeiten verknüpfen nächtliche Bildschirm- und Smartphone-Nutzung mit kürzerer Schlafdauer, schlechterer Schlafqualität und Tagesmüdigkeit; als Mechanismen gelten die Verdrängung von Schlafzeit, kognitiv aktivierende Inhalte und die Melatonin-Unterdrückung durch Blaulicht.[18] Wenn dir jemand sagt, das sei Kulturpessimismus, hat er die Literatur nicht gelesen. Von allen Smartphone-Sorgen steht diese am festesten — und sie ist die einzige, bei der man sofort selbst etwas ändern kann, ohne auf Politik, Plattformen oder Forschung zu warten.
 
 **Stufe zwei, plausibel, aber wacklig: der „Brain Drain".** Adrian Ward und Kollegen zeigten 2017, dass schon die bloße Anwesenheit des eigenen Smartphones — auf dem Tisch, in der Tasche, im Nebenraum — die verfügbare kognitive Kapazität verringert, und zwar umso stärker, je präsenter das Gerät ist.[19] Der Befund ist plausibel, jeder kennt das Gefühl, und er wird deshalb ständig zitiert. Nur ließ er sich in einem Replikationsversuch nicht reproduzieren, und eine Meta-Analyse relativiert seine Robustheit.[19] Das macht ihn nicht falsch. Es macht ihn zu etwas, das man nicht als gesicherte Tatsache verkaufen darf.
 
@@ -172,7 +172,7 @@ Zwei Warnungen vorweg. Es ist kein Punktesystem; es gibt kein Ergebnis wie „vi
 
 **Gibt es einen Mechanismus, oder nur eine Gleichzeitigkeit?** Beim Schlaf kann man erklären, wie der Schaden entsteht: verdrängte Zeit, Aktivierung, Melatonin.[18] Bei der Jugend-Psyche haben wir überwiegend Korrelationen und einen ungeklärten Streit über die Richtung des Pfeils.[21] Beides sind Sorgen. Nur die eine hat ein Getriebe. Eine Angst ohne benennbaren Wirkweg ist nicht widerlegt, aber sie ist noch keine Behauptung, sie ist eine Beobachtung. Die Frage lautet ganz praktisch: Kannst du in drei Sätzen sagen, was genau passiert, zwischen dem Einschalten des Geräts und dem Schaden? Wenn nicht, weißt du noch nicht, wovor du dich fürchtest.
 
-**Betrifft es alle, oder eine bestimmte Gruppe in einer bestimmten Phase?** Das ist die Klasse-4-Frage, und sie ist die produktivste des ganzen Sets. Fast jede Technikangst wird als Aussage über die Menschheit formuliert und ist in Wahrheit eine Aussage über eine Teilgruppe unter Bedingungen.[4] Kraut hat dieselbe Struktur auf der Zeitachse gezeigt: erst schädlich, später nicht mehr.[9] Wer das übersetzt, verwandelt einen unlösbaren Kulturkampf in eine bearbeitbare Frage: nicht „ruiniert KI das Denken", sondern „bei wem, ab wann, in welcher Dosis, mit welcher Vorbereitung". Der Nebeneffekt ist, dass die Antwort dann meistens etwas kostet und jemanden in die Pflicht nimmt. Genau deshalb wird die Frage so ungern gestellt.
+**Betrifft es alle, oder eine bestimmte Gruppe in einer bestimmten Phase?** Das ist die Klasse-4-Frage, und sie ist die produktivste des ganzen Sets. Fast jede Technikangst wird als Aussage über die Menschheit formuliert und ist in Wahrheit eine Aussage über eine Teilgruppe unter Bedingungen.[4] Kraut hat dieselbe Struktur auf der Zeitachse gezeigt: erst schädlich, später nicht mehr.[9] Wer das übersetzt, verwandelt einen unlösbaren Kulturkampf in eine bearbeitbare Frage: nicht „ruiniert KI das Denken", sondern „bei wem, ab wann, in welcher Dosis, mit welcher Vorbereitung". Die Antwort kostet dann meistens etwas und nimmt jemanden in die Pflicht. Deshalb wird die Frage so ungern gestellt.
 
 **Ist die Sorge über die Technik oder über ihre Verteilung?** Als die Mikroelektronik in die Büros und Fabriken kam, war die große Angst die Massenarbeitslosigkeit; die Bundeszentrale für politische Bildung behandelte 1980 die „dritte industrielle Revolution" und ihre Beschäftigungswirkungen.[22] Eingetreten ist sie nicht: In Deutschland erlitten Regionen mit hoher Automatisierungsexposition keine überdurchschnittlichen Jobverluste, Produktivitätszuwächse gingen eher mit regionalem Beschäftigungswachstum einher.[23] Aber die Sorge war deshalb nicht gegenstandslos, sie war nur an der falschen Stelle adressiert. Real sind Verteilungs- und Belastungseffekte: 46 Prozent der Beschäftigten in Deutschland verbinden Digitalisierung mit steigender Arbeitsbelastung, nur 9 Prozent mit Entlastung.[23] Die Angst wanderte vom Jobverlust zur Verdichtung. Wenn eine Sorge sich auf „wer trägt die Kosten" reduzieren lässt, ist sie keine Technikfrage, sondern eine politische — und dann hilft kein Faktencheck über die Technik.
 
@@ -186,7 +186,7 @@ Der Test liefert keine Wahrheit. Er sortiert. Am Ende landet eine Sorge in einem
 
 ## Zwei Durchgänge
 
-Damit das nicht abstrakt bleibt, gehe ich zwei Fälle mit dir durch. Einen aus diesem Kapitel, einen aus meinem Büro.
+Damit das nicht abstrakt bleibt, zwei Fälle im Durchgang. Einer aus diesem Kapitel, einer aus meinem Büro.
 
 **Erster Durchgang: „Die Leute werden süchtig nach dem Ding."** Gemeint war damit das Internet, heute wird derselbe Satz über Chatbots gesagt.
 
@@ -218,7 +218,7 @@ Kontrolle: Wer merkt es überhaupt, und wer kann den Vorgang in drei Jahren noch
 
 Die Technik funktioniert meistens. Das Drumherum ist die Baustelle. Meine Erfahrung, keine Studie — aber oft genug gemacht, um sie hinzuschreiben. Mit einem Nebeneffekt, den ich unterschätzt hatte: Wer den Leuten diese drei Fragen zugesteht, statt sie als Widerstand abzutun, bekommt sie meistens auf seine Seite. Nicht weil er sie überzeugt hätte, sondern weil endlich jemand ihre Frage aufgeschrieben hat.
 
-Und damit sind wir am Übergang. Ich habe dir im ersten Kapitel gezeigt, dass die Sorge des Abtes Trithemius um die geistige Disziplin im Kern auf etwas Reales zielte, auch wenn seine Prognose überwiegend danebenlag. Beim Taschenrechner ist es dasselbe, nur mit Messwerten statt mit Vermutungen. Bei der Kodak-Kamera hatte die Angst schlicht recht und hat etwas Bleibendes hervorgebracht. Bei der Computerangst der achtziger Jahre löste sie sich in Erfahrung auf. Beim Walkman wurde sie nicht widerlegt, sondern umgewertet. Das Muster ist also nicht „Angst irrt sich". Das Muster ist: Die Angst zeigt fast immer in eine reale Richtung und trifft fast nie den richtigen Punkt.
+Und damit sind wir am Übergang. Die Sorge des Abtes Trithemius um die geistige Disziplin zielte im Kern auf etwas Reales, auch wenn seine Prognose überwiegend danebenlag. Beim Taschenrechner ist es dasselbe, nur mit Messwerten statt Vermutungen. Bei der Kodak-Kamera hatte die Angst schlicht recht und hat etwas Bleibendes hervorgebracht. Bei der Computerangst löste sie sich in Erfahrung auf, beim Walkman wurde sie umgewertet statt widerlegt. Das Muster ist also nicht „Angst irrt sich". Es ist: Die Angst zeigt fast immer in eine reale Richtung und trifft fast nie den richtigen Punkt.
 
 Die größte aller KI-Ängste zeigt in die Richtung des eigenen Schreibtischs. Nimmt sie mir die Arbeit weg. Wir werden diese Angst jetzt nicht wegreden und nicht bestätigen, sondern durch die sechs Fragen schicken — und ich sage dir gleich, dass die Antwort unbequemer ausfällt, als sie in meiner eigenen Facharbeit ausgefallen ist.
 
