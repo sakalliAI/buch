@@ -139,3 +139,8 @@
 108. Erik Brynjolfsson: *The Turing Trap*. Dædalus 2022 / arXiv:2201.04200. — Augmentation vs. Automation. [Meinung]
 109. OpenResearch (Altman-gestützte UBI-Studie). Ergebnisse 21.7.2024. — geringer Arbeitszeit-Effekt. [belegt]
 110. Daron Acemoglu: *The Simple Macroeconomics of AI*. NBER WP 32487, April 2024. — ≤0,66 % TFP/10 Jahre. [Prognose] — **stärkstes Hot-Take-Material (vs. 96/97).**
+
+## Nachträge aus Phase 4 (Schreiben)
+
+111. ▲ Platon: *Phaidros* 274c–275b — Theuth-und-Thamus-Mythos: die Schrift erzeuge Vergessen; die Lernenden würden „scheinbar weise statt weise". Verwendet in Kap. 1. — **Deutsche Übersetzung + Stellenangabe vor Drucklegung festlegen; Paraphrase, kein Wortzitat im Text.**
+112. ▲ Heinrich Kramer (Institoris): *Malleus Maleficarum* („Hexenhammer"), Erstdruck 1486/87, zahlreiche gedruckte Auflagen. Verwendet in Kap. 1 als Beleg für die wertneutrale Skalierung durch den Druck. — **Auflagenzahl/Wirkungsgrad an Standardliteratur absichern; Forschungsstreit über das Gewicht des Einzelwerks ist im Text bereits kenntlich gemacht.**

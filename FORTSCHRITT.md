@@ -53,7 +53,7 @@ Stand: 2026-06-28
 | # | Kapitel | Datei | Ziel-W | Status |
 |---|---------|-------|--------|--------|
 | 00 | Einleitung — Wovor hast du eigentlich Angst? | 02_kapitel/00_einleitung.md | ~3.500 | ✅ |
-| 01 | Die Angst ist älter als die Maschine | 02_kapitel/01_*.md | ~6.000 | ⬜ |
+| 01 | Die Angst ist älter als die Maschine | 02_kapitel/01_angst_aelter_als_maschine.md | ~6.000 | ✅ (Rohtext ~2.700, Ausbau in Phase 5) |
 | 02 | Tempo, Strom und der Tod des Abendlands | — | ~6.000 | ⬜ |
 | 03 | „Das Telefon wird die Familie zerstören" | — | ~6.000 | ⬜ |
 | 04 | Warum wir nie aus der Geschichte lernen | — | ~6.000 | ⬜ |
