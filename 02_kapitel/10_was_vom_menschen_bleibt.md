@@ -82,9 +82,9 @@ Ist die Unterscheidung mehr als Theorie? Es gibt einen Hinweis, und er ist der i
 
 Er trägt den Titel „Canaries in the Coal Mine?" und stammt aus dem Stanford Digital Economy Lab, von Brynjolfsson selbst zusammen mit Bharat Chandar und Ruyu Chen.[2] Das Bild ist mit Bedacht gewählt. Bergleute nahmen früher Kanarienvögel mit unter Tage, nicht aus Tierliebe, sondern weil die Vögel bei giftigen Gasen umkippen, bevor ein Mensch etwas merkt. Wer wissen will, ob sich die Luft verändert, schaut nicht auf den Kräftigsten. Er schaut auf den Empfindlichsten.
 
-Die Empfindlichsten am Arbeitsmarkt sind die Berufseinsteiger. Sie haben keine Betriebszugehörigkeit, kein Netzwerk im Haus, keinen Kündigungsschutz, der sich gelohnt hätte aufzubauen, und vor allem: Über sie wird nicht entschieden, indem man jemanden entlässt, sondern indem man eine Stelle nicht ausschreibt. Das ist ein lautloser Vorgang. Er taucht in keiner Statistik über Entlassungen auf.
+Die Empfindlichsten am Arbeitsmarkt sind die Berufseinsteiger. Kein Netzwerk im Haus, keine Betriebszugehörigkeit, und vor allem: Über sie wird nicht entschieden, indem man jemanden entlässt, sondern indem man eine Stelle nicht ausschreibt. Ein lautloser Vorgang, der in keiner Entlassungsstatistik auftaucht.
 
-Die Untersuchung nutzt Lohnabrechnungsdaten des Dienstleisters ADP von über 25 Millionen amerikanischen Beschäftigten und verfolgt sie über die Zeit seit der Verbreitung generativer KI. Gefunden wurde unter mehreren Befunden vor allem dieser: ein relativer Beschäftigungsrückgang von etwa 13 bis 16 Prozent bei Berufseinsteigern zwischen 22 und 25 Jahren in den am stärksten KI-exponierten Berufen, während ältere Kohorten in denselben Berufen zulegten.[2]
+Die Untersuchung nutzt Lohnabrechnungsdaten des Dienstleisters ADP von über 25 Millionen amerikanischen Beschäftigten seit der Verbreitung generativer KI. Unter mehreren Befunden vor allem dieser: ein relativer Beschäftigungsrückgang von etwa 13 bis 16 Prozent bei Berufseinsteigern zwischen 22 und 25 Jahren in den am stärksten KI-exponierten Berufen, während ältere Kohorten in denselben Berufen zulegten.[2]
 
 Auf das Wort „relativ" kommt es an, und ich schreibe es aus, weil es in der Berichterstattung regelmäßig unter den Tisch fällt: Gemeint ist die Entwicklung im Vergleich zu weniger exponierten Berufen und zu anderen Altersgruppen, nicht die Behauptung, dass jede sechste Einstiegsstelle in Amerika verschwunden wäre. Es ist ein Auseinanderdriften, keine Massenentlassung.
 
@@ -225,8 +225,6 @@ Bleibt der Anfang. Die zwanzig Minuten, die zwei Entwürfe, die Zahl im Angebot.
 Wenn Brynjolfsson recht hat, und ich glaube, dass er es tut, dann ist die Zukunft der Arbeit keine Vorhersage, sondern eine Summe. Sie ist die Summe aus sehr vielen kleinen Entscheidungen, getroffen von Leuten wie mir, in Räumen ohne Fenster, unter Zeitdruck, anhand einer Zahl, die einen Teil der Wahrheit abbildet. Niemand von uns hat je das Gefühl, gerade über die Zukunft der Arbeit zu entscheiden. Wir entscheiden über ein Angebot.
 
 Deshalb finde ich die große Frage „Was macht die KI mit uns?" inzwischen weniger interessant als die kleine: Wer sitzt in diesen Räumen, und wonach entscheidet er?
-
-Turing hat 1950 eine Prüfung vorgeschlagen, um eine philosophische Frage zu klären. Wir haben daraus ein Konstruktionsziel gemacht und es siebzig Jahre lang für den Lauf der Dinge gehalten. Das lässt sich ändern, und zwar dort, wo es entsteht: an dem Tisch, an dem jemand entscheidet, ob der Mensch im Entwurf vorkommt oder nur im Ausnahmepostfach.
 
 Was dabei hilft, ist ärgerlich unglamourös. Es ist die Fähigkeit, ein System so zu bauen und so zu benutzen, dass der Mensch daran wächst statt zu verschwinden — und zu erkennen, wann das Gegenteil passiert, auch wenn die Zahlen im Angebot etwas anderes sagen. Das kann man lernen. Es ist Handwerk, kein Schicksal.
 

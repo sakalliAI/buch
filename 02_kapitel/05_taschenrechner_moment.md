@@ -58,11 +58,11 @@ Ein Viertel bis die Hälfte. Das ist keine Randgruppe von Technikverweigerern, d
 
 Nur steckt in genau diesem Satz eine Falle, und Rosen und Weil haben sie 1995 selbst gefunden. Sie untersuchten Schulen in Südkalifornien, in denen Computer vorhanden waren, und stellten fest, dass viele Lehrkräfte sie schlicht nicht benutzten — und dass ausgerechnet die, die weniger nutzten, die höhere Computerangst hatten.[6] Der Zusammenhang läuft also in einem Kreis. Erfahrung baut die Angst ab, und die Angst verhindert die Erfahrung. Wer nicht anfängt, kommt nie an den Punkt, an dem es besser wird.
 
-Hinzu kam ein Verstärker von außen. Die zeithistorische Forschung beschreibt, wie die Medien dieser Jahre die mit der Computereinführung verbundenen Ängste nicht nur abbildeten, sondern aufluden; „Automation" löste, so die Formulierung, „Sorgen, Ängste, ja Furcht" aus, und „wegrationalisiert" wurde zum Schlagwort des Jahrzehnts.[7]
+Hinzu kam ein Verstärker von außen. Die zeithistorische Forschung beschreibt, wie die Medien dieser Jahre die Computerängste nicht nur abbildeten, sondern aufluden; „Automation" löste „Sorgen, Ängste, ja Furcht" aus, und „wegrationalisiert" wurde zum Schlagwort des Jahrzehnts.[7]
 
 Dieser Kreis ist der Teil, der mir im Berufsalltag praktisch täglich begegnet. Wenn ich zwei Wochen lang jemandem über die Schulter schaue, während er das neue Werkzeug selbst bedient, ist die Angst am Ende weg. Wenn ich stattdessen eine Schulung mit vierzig Leuten und sechzig Folien mache, ist sie hinterher genauso groß wie vorher, nur höflicher. Das ist keine Studie, das ist meine Erfahrung — sie deckt sich nur verdächtig gut mit dem, was Rosen und Weil an kalifornischen Schulen gemessen haben.
 
-Die Computerangst gehört damit in eine eigene Kategorie: eine Angst, die real war, breit verbreitet, messbar — und die kein Verbot, keine Gegenkampagne und keine Aufklärung beendet hat, sondern die eigene Hand auf der eigenen Tastatur.
+Die Computerangst gehört damit in eine eigene Kategorie: real, breit verbreitet, messbar — und beendet nicht durch Verbot, Gegenkampagne oder Aufklärung, sondern durch die eigene Hand auf der eigenen Tastatur.
 
 ## Ein sehr kluger Mann liegt sehr falsch
 
@@ -152,7 +152,7 @@ Bleiben wir bei den Fällen, in denen nicht entwarnt werden darf. Das Smartphone
 
 Ich erwähne das ausdrücklich, weil dieser Befund gut in mein Weltbild passt und ich ihn deshalb besonders gern glauben würde. Das ist der unangenehmste Moment beim Prüfen: nicht wenn eine Studie einer Position widerspricht, die man ablehnt, sondern wenn eine bröckelt, die man mag.
 
-Auf derselben Stufe steht ein Alltagsphänomen mit einem hässlichen Namen. „Phubbing" — aus „phone" und „snubbing" — wurde im Mai 2012 im Rahmen einer Wörterbuchkampagne einer australischen Werbeagentur geprägt, also nicht in der Wissenschaft, sondern im Marketing.[20] Die Forschung hat den Begriff trotzdem aufgegriffen; Arbeiten zum „partner phubbing" verbinden ihn mit geringerer Beziehungs- und Lebenszufriedenheit bis hin zu depressiven Symptomen.[20] Effektstärken und Ursachenrichtung sind offen: Es ist genauso denkbar, dass unzufriedene Paare mehr aufs Handy schauen, wie umgekehrt.
+Auf dieselbe Stufe gehört das „Phubbing" — aus „phone" und „snubbing" —, ein Begriff, der im Mai 2012 nicht in der Wissenschaft entstand, sondern in einer Wörterbuchkampagne einer australischen Werbeagentur. Die Forschung hat ihn trotzdem aufgegriffen und verbindet „partner phubbing" mit geringerer Beziehungs- und Lebenszufriedenheit bis hin zu depressiven Symptomen.[20] Effektstärken und Ursachenrichtung sind offen: Genauso denkbar ist, dass unzufriedene Paare mehr aufs Handy schauen.
 
 **Stufe drei, offener Streit: Jugendliche und psychische Gesundheit.** Jonathan Haidt hat diese Frage mit „The Anxious Generation" 2024 in die Weltöffentlichkeit getragen, Jean Twenge zuvor mit „iGen": Der Anstieg von Angst, Depression, Selbstverletzung und Einsamkeit bei Jugendlichen falle zeitlich mit der Verbreitung von Smartphone und sozialen Medien ab etwa 2012 zusammen und sei mitursächlich.[21]
 

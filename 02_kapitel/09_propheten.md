@@ -98,7 +98,7 @@ Am 30. Mai 2023 veröffentlichte das Center for AI Safety ein Statement, das aus
 
 Der letzte Name ist der wichtigste an dieser Stelle. Der Mann mit dem Nobelpreis für den größten belegten KI-Erfolg steht auf derselben Liste wie die Warner. Wenn dein Weltbild ein sauberes Duell zwischen Begeisterten und Ängstlichen vorsieht, kannst du es hier verabschieden.
 
-Das Ein-Satz-Format hat übrigens einen Zweck, den man kennen sollte. Je länger ein Aufruf, desto mehr Gründe, nicht zu unterschreiben; ein einziger Satz ohne Forderungskatalog senkt die Kosten der Unterschrift auf fast null. Das erklärt die prominente Liste — und es erklärt zugleich, warum aus dem Statement so wenig folgt. Es sagt, dass etwas Priorität haben soll. Es sagt nicht, was zu tun ist. Wer es als Beweis für einen Expertenkonsens über die Wahrscheinlichkeit zitiert, überdehnt es.
+Das Ein-Satz-Format hat dabei einen Zweck: Je länger ein Aufruf, desto mehr Gründe, nicht zu unterschreiben. Das erklärt die prominente Liste — und zugleich, warum aus dem Statement so wenig folgt. Es sagt, dass etwas Priorität haben soll, nicht was zu tun ist. Wer es als Beweis für einen Expertenkonsens über die Wahrscheinlichkeit zitiert, überdehnt es.
 
 Bengio hat noch etwas anderes getan, das mir persönlich mehr sagt als jede Prozentzahl. Er leitete den *International AI Safety Report*, veröffentlicht am 29. Januar 2025, an dem rund hundert Fachleute mitwirkten, mit einem Beirat aus dreißig Ländern sowie UN, EU und OECD. Der Bericht gibt ausdrücklich keine politischen Empfehlungen, sondern bündelt, was die Forschung tatsächlich weiß.[9] Genau das ist die seltene Gattung: eine Bestandsaufnahme, die den Unterschied zwischen Evidenz und Vermutung selbst markiert, statt ihn zu kassieren.
 
@@ -118,7 +118,7 @@ LeCun ist der beste Beweis dafür, dass die Lager-Sortierung nicht funktioniert.
 
 Gary Marcus argumentiert von der anderen Seite in dieselbe Richtung. Sein Essay „Deep Learning Is Hitting a Wall" von 2022 und seine Fortschreibung im Substack bis heute laufen darauf hinaus, dass reines Skalieren die harten Probleme nicht löst — Halluzinationen, Abstraktion, verlässliches Schlussfolgern — und dass es abnehmende Erträge gibt.[12] Ein Teil dieser Position ist Wertung, ein Teil stützt sich auf beobachtete Plateaus. Und wenn ich ehrlich bin: In meinem Arbeitsalltag komme ich Marcus näher, als mir manchmal lieb ist. Ein Modell schreibt mir in zwei Minuten ein sauberes Skript, und dreißig Minuten später scheitert dasselbe Modell daran, die Eigenheiten einer schlecht dokumentierten internen Schnittstelle zu begreifen, die jeder Kollege nach einer Woche im Haus kennt.
 
-Fairerweise gehört dazu, dass Marcus seine These seit Jahren fortschreibt und die Systeme seither trotzdem erheblich besser geworden sind. Eine Wand, die man mehrfach angekündigt hat und an der bisher niemand endgültig hängengeblieben ist, verliert an Beweiskraft. Beides kann stimmen: dass die harten Probleme ungelöst sind und dass die Kurve weiterläuft. Die Frage ist, wie weit.
+Fairerweise gehört dazu, dass Marcus seine These seit Jahren fortschreibt und die Systeme seither trotzdem erheblich besser geworden sind. Eine Wand, die mehrfach angekündigt wurde und an der bisher niemand endgültig hängenblieb, verliert an Beweiskraft.
 
 Dann gibt es noch eine Kritik, die mich an dieses Buch anders andockt, weil sie zurück in das Kapitel führt, aus dem du gerade kommst.
 
@@ -140,7 +140,7 @@ Die Autoren bezeichnen den Text ausdrücklich als Planungswerkzeug, nicht als w�
 
 Das ist bemerkenswertes Verhalten, und ich meine das nicht ironisch. Jemand veröffentlicht ein Szenario, bekommt Aufmerksamkeit dafür, und korrigiert es dann öffentlich in die unspektakulärere Richtung. Wer seine eigene Prognose gegen sein eigenes Interesse revidiert, gibt dir einen Grund, ihn beim nächsten Mal ernster zu nehmen, nicht weniger ernst.
 
-Der eigentliche Schaden entstand ohnehin nicht im Text, sondern beim Weiterreichen. Aus einem verzweigten Szenario mit ausgeschriebenen Annahmen wurde in der dritten Meldung ein Datum: 2027. Das ist derselbe Mechanismus, den wir im vorigen Kapitel am halben Liter Wasser durchgespielt haben. Jede Weitergabe streicht die Bedingungen, weil Bedingungen sich schlecht in eine Überschrift setzen lassen, und am Ende steht eine Zahl, für die niemand haftet.
+Der Schaden entstand ohnehin nicht im Text, sondern beim Weiterreichen. Aus einem verzweigten Szenario mit ausgeschriebenen Annahmen wurde in der dritten Meldung ein Datum: 2027. Derselbe Mechanismus wie beim halben Liter Wasser im vorigen Kapitel. Jede Weitergabe streicht die Bedingungen, weil Bedingungen sich schlecht in eine Überschrift setzen lassen, und am Ende steht eine Zahl, für die niemand haftet.
 
 Bleibt die Frage darunter, und die ist es wert, klar beantwortet zu werden: Wann kommt AGI?
 
