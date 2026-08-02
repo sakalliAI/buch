@@ -17,7 +17,7 @@ Emre Sakalli
 
 Oberhausen, {{Datum}}
 
-**Sachbuchangebot: „Erst kam die Angst, dann kam der Alltag" — vollständiges Manuskript, ca. 90.600 Wörter**
+**Sachbuchangebot: „Erst kam die Angst, dann kam der Alltag" — vollständiges Manuskript, ca. 89.700 Wörter**
 
 Sehr geehrte{{r}} {{Frau/Herr}} {{Name}},
 
@@ -29,7 +29,7 @@ Mein Buch legt dieses Muster frei — von Trithemius über die Eisenbahn und das
 
 Ich schreibe das nicht als Historiker, sondern als Praktiker. Ich leite Teams, die Prozesse automatisieren, und habe die Angst vor diesen Projekten auf den Gesichtern von Kolleginnen und Kollegen gesehen, lange bevor „KI" ein Titelthema war. Diese Perspektive fehlt im deutschen Markt: zwischen den erklärenden Büchern und den mahnenden gibt es kaum eines, das beide Reflexe zugleich entschärft und dem Publikum stattdessen Kriterien in die Hand gibt.
 
-Das Manuskript ist vollständig: ca. 90.600 Wörter, zwölf Kapitel in drei Teilen, 164 belegte Quellen. Im Anhang finden Sie das Exposé und als Leseprobe die Einleitung sowie das erste Kapitel. Über eine Rückmeldung würde ich mich freuen; das vollständige Manuskript sende ich Ihnen gern.
+Das Manuskript ist vollständig: ca. 89.700 Wörter, zwölf Kapitel in drei Teilen, 165 belegte Quellen. Im Anhang finden Sie das Exposé und als Leseprobe die Einleitung sowie das erste Kapitel. Über eine Rückmeldung würde ich mich freuen; das vollständige Manuskript sende ich Ihnen gern.
 
 {{Bei Verlagen — bei Agenturen streichen: Ich habe dieses Angebot {{ausschließlich an Ihr Haus / zeitgleich an weitere Verlage}} gerichtet und informiere Sie umgehend, falls sich daran etwas ändert.}}
 

@@ -4,7 +4,7 @@
 
 **Was Buchdruck, Dampflok und Smartphone über unsere Furcht vor künstlicher Intelligenz verraten**
 
-Emre Sakalli · Sachbuch · ca. 90.600 Wörter · Manuskript vollständig
+Emre Sakalli · Sachbuch · ca. 89.700 Wörter · Manuskript vollständig
 
 ---
 
@@ -123,9 +123,9 @@ Er ist Enkel eines Gastarbeiters; sein Vater kam mit vierzehn ohne ein Wort Deut
 | | |
 |---|---|
 | **Status** | Manuskript vollständig |
-| **Umfang** | ca. 90.600 Wörter, ca. 288–320 Buchseiten |
+| **Umfang** | ca. 89.700 Wörter, geschätzt 340–400 Buchseiten |
 | **Struktur** | Einleitung, 12 Kapitel in 3 Teilen, Schluss |
-| **Apparat** | 164 belegte Quellen, kapitelweise Endnoten |
+| **Apparat** | 165 belegte Quellen, kapitelweise Endnoten |
 | **Ausstattung** | reiner Text, keine Abbildungen nötig |
 | **Leseprobe** | Einleitung und Kapitel 1 (ca. 10.400 Wörter), auf Wunsch auch Kapitel 5 als Kernkapitel |
 | **Verfügbarkeit** | überarbeitungsbereit; die Belegprüfung am Volltext läuft |

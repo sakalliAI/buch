@@ -5,7 +5,7 @@
 
 Emre Sakalli
 
-Diese Leseprobe umfasst die Einleitung und das erste Kapitel. Das vollständige Manuskript hat ca. 90.600 Wörter.
+Diese Leseprobe umfasst die Einleitung und das erste Kapitel. Das vollständige Manuskript hat ca. 89.700 Wörter.
 
 ---
 
