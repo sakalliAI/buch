@@ -12,9 +12,9 @@ Stand: 2026-06-28
 | 2 | Markt- & Formatrecherche | ✅ (Zielmarke als Arbeitsbasis übernommen) | 🚦 GATE 2 ✅* |
 | 3 | Konzept, Titel & Struktur | ✅ freigegeben | 🚦 GATE 3 ✅ |
 | 4 | Schreiben (Kapitel für Kapitel) | ✅ Rohfassung komplett (~50.700 W) | — |
-| 5 | Quellenapparat & Humanisierungs-Pass | ⬜ offen | — |
-| 6 | Word-Dokument bauen | ⬜ offen | — |
-| 7 | KDP-Paket + Verlags-Exposé | ⬜ offen | 🚦 GATE 4 |
+| 5 | Quellenapparat & Humanisierungs-Pass | ✅ erledigt | — |
+| 6 | Word-Dokument bauen | ✅ erledigt | — |
+| 7 | KDP-Paket + Verlags-Exposé | ✅ erledigt | 🚦 GATE 4 |
 
 ## Phase 1 — Recherche-Stränge
 
@@ -79,3 +79,16 @@ Stand: 2026-06-28
 - **Quellenapparat:** Endnoten aus den Kapiteln in eine einheitliche Buchnummerierung überführen; `QUELLEN.md` steht bei 118 Einträgen.
 - **Humanisierungs-Pass:** Gesamtdurchgang auf Wiederholungen zwischen den Kapiteln (mehrere Kapitel greifen Trithemius, Ludditen und den Taschenrechner-Test auf — Dosierung prüfen).
 - **Faktencheck:** Prüfliste abarbeiten.
+
+## Ergebnis
+
+| | |
+|---|---|
+| Manuskript | 89.723 Wörter · Einleitung + 12 Kapitel in 3 Teilen + Schluss |
+| Quellen | 165 Einträge, lückenlos, alle Kapitelverweise gültig |
+| Word-Manuskript | `04_produktion/Erst_kam_die_Angst_Manuskript.docx` (6×9″, KDP-Satzspiegel) |
+| Verlagspaket | `06_expose/` — Exposé, Anschreiben-Vorlage, Leseprobe |
+| KDP-Paket | `05_kdp/KDP_PAKET.md` |
+| Offen vor Druck | `03_pruefung/` — 111 Belegstellen am Volltext prüfen, Rechenbeispiel Kap. 8 nachrechnen, KDP-Werte im Konto verifizieren |
+
+**Reproduzierbar:** `python3 04_produktion/build_docx.py` baut das Word-Dokument aus den Markdown-Kapiteln neu.
