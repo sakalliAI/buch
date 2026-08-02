@@ -140,7 +140,7 @@ Der Verkehrsteil der Sorge ging anders aus. Eine Studie von Lichenstein und Koll
 
 Es ist aber auch eine deskriptive Studie mit kleinen absoluten Zahlen und ohne Risikoquotienten. Sie sagt nicht, wie viel gefährlicher Kopfhörertragen ist, sondern nur, dass es diese Fälle gab und dass sie zunahmen — in einem Zeitraum, in dem auch die Zahl der Kopfhörerträger stark zunahm. Kein Beleg für ein Massenphänomen, aber auch nichts, was man wegwischen darf.
 
-Beides zugleich stehen zu lassen, ohne in eine der beiden bequemen Richtungen zu kippen, ist die eigentliche Übung dieses Kapitels. Die Vereinzelungs-Apokalypse trat nicht ein. Die Verkehrssorge hatte einen Kern. Dieselbe Technik, dieselbe Debatte, zwei verschiedene Antworten — und wer nur eine davon zitiert, sagt etwas Wahres und etwas Irreführendes im selben Satz.
+Die Vereinzelungs-Apokalypse trat nicht ein, die Verkehrssorge hatte einen Kern. Dieselbe Technik, dieselbe Debatte, zwei verschiedene Antworten — wer nur eine davon zitiert, sagt etwas Wahres und etwas Irreführendes im selben Satz. Beides zugleich stehen zu lassen ist die eigentliche Übung dieses Kapitels.
 
 ## Was beim Smartphone belegt ist — und was nicht
 
@@ -160,7 +160,7 @@ Dagegen steht die Entwicklungspsychologin Candice Odgers, die Haidts Buch 2024 i
 
 Twenge und Haidt halten dagegen, es gebe einen einigermaßen robusten Konsens über eine zumindest teilweise Verknüpfung, und Twenge hat Odgers' Alternativerklärung geprüft und Befunde vorgelegt, die ihr widersprechen.[21]
 
-Beide Seiten sind ausgewiesene Fachleute, beide arbeiten mit denselben Datensätzen, und beide werfen der jeweils anderen vor, selektiv zu lesen. Das ist kein Streit zwischen Wissenschaft und Bauchgefühl. Es ist ein Streit innerhalb der Wissenschaft, und die schwierigste Sorte davon: einer über Kausalität in Daten, die von Natur aus korrelativ sind. Wenn Jugendliche mit depressiven Symptomen mehr auf Instagram sind, kann Instagram die Ursache sein, die Folge, oder beides kann von etwas Drittem kommen. Man kann Kinder nicht randomisiert einer Kindheit mit und ohne Smartphone zuweisen. Deshalb wird dieser Streit noch Jahre dauern, und deshalb wird er womöglich nie so entschieden, wie eine Talkshow es gern hätte.
+Beide Seiten sind ausgewiesene Fachleute, beide arbeiten mit denselben Datensätzen, und beide werfen der jeweils anderen vor, selektiv zu lesen. Das ist kein Streit zwischen Wissenschaft und Bauchgefühl, sondern einer innerhalb der Wissenschaft, und zwar die schwierigste Sorte: einer über Kausalität in Daten, die von Natur aus korrelativ sind. Wenn Jugendliche mit depressiven Symptomen mehr auf Instagram sind, kann Instagram die Ursache sein, die Folge, oder beides kann von etwas Drittem kommen. Kinder lassen sich nicht randomisiert einer Kindheit mit und ohne Smartphone zuweisen. Deshalb wird dieser Streit womöglich nie so entschieden, wie eine Talkshow es gern hätte.
 
 Ich habe hier keine Auflösung für dich, weil es keine gibt. Was ich dir stattdessen anbiete, ist die ehrliche Version: Das ist der Punkt, an dem die Antwort „war doch immer so, wird schon gutgehen" intellektuell unredlich wäre. Meine persönliche Haltung, ausdrücklich als Meinung: Ich würde bei meinen eigenen Kindern nicht auf den Ausgang dieses Streits warten, bevor ich Regeln aufstelle. Bei einer Sorge, deren Schaden im Ernstfall groß und schwer umkehrbar wäre und deren Vermeidung wenig kostet, entscheide ich lieber vorsichtig als richtig. Aber ich würde auch niemandem erlauben, mir diesen Streit als entschieden zu verkaufen.
 
