@@ -20,7 +20,7 @@ Weil dieser Fall der einzige in diesem Kapitel ist, der ohne Konjunktiv auskommt
 
 ### Warum die Faltung ein Problem war
 
-Proteine sind die Werkzeuge des Lebens. Enzyme, die Stoffe zerlegen. Antikörper, die Eindringlinge erkennen. Kanäle, die Ionen durch eine Zellmembran lassen. Rezeptoren, an die Medikamente andocken. Gebaut sind sie alle nach demselben simplen Prinzip: eine Kette aus Aminosäuren, zwanzig verschiedene Sorten, aufgereiht wie Perlen an einer Schnur. Diese Kette bleibt keine Schnur. Sie faltet sich in Sekundenbruchteilen zu einem dreidimensionalen Knäuel mit Taschen, Wülsten und Furchen — und erst diese Form entscheidet, was das Protein kann. Falsche Form, keine Funktion. Manchmal falsche Form, Krankheit.
+Proteine sind die Werkzeuge des Lebens: Enzyme, die Stoffe zerlegen, Antikörper, die Eindringlinge erkennen, Rezeptoren, an die Medikamente andocken. Gebaut sind sie alle nach demselben simplen Prinzip — eine Kette aus Aminosäuren, zwanzig verschiedene Sorten, aufgereiht wie Perlen an einer Schnur. Diese Kette bleibt keine Schnur. Sie faltet sich in Sekundenbruchteilen zu einem dreidimensionalen Knäuel mit Taschen und Furchen, und erst diese Form entscheidet, was das Protein kann. Falsche Form, keine Funktion. Manchmal falsche Form, Krankheit.
 
 1972 bekam Christian Anfinsen den Nobelpreis für Chemie, unter anderem für eine Erkenntnis, die das Problem zugleich löste und schuf: Die Information darüber, wie sich eine Kette faltet, steckt in der Kette selbst. Man muss nichts hinzufügen. Ein entfaltetes Protein findet unter den richtigen Bedingungen von allein in seine Form zurück.[23]
 
@@ -36,9 +36,9 @@ Dem gegenüber standen mehrere hundert Millionen bekannter Aminosäuresequenzen.
 
 Es gibt für dieses Feld eine Einrichtung, die ich für vorbildlich halte und die man in der KI-Debatte viel öfter erwähnen sollte: CASP, die *Critical Assessment of Structure Prediction*, ins Leben gerufen 1994 von John Moult und Kollegen, seither alle zwei Jahre.[24]
 
-Der Ablauf ist so schlicht wie unbestechlich. Labore weltweit haben Strukturen experimentell aufgeklärt, aber noch nicht veröffentlicht. Die Sequenzen dieser Proteine gehen an alle teilnehmenden Teams. Die rechnen und geben ihre Vorhersagen ab. Danach werden die echten Strukturen offengelegt und Vorhersage gegen Wirklichkeit gehalten, gemessen in einem Wert, der beschreibt, wie gut die vorhergesagten Atome auf den gemessenen liegen. Niemand kann sich das Ergebnis schönrechnen, weil die Antwort erst nach der Abgabe existiert.
+Der Ablauf ist so schlicht wie unbestechlich. Labore weltweit haben Strukturen experimentell aufgeklärt, aber noch nicht veröffentlicht. Die Sequenzen gehen an alle teilnehmenden Teams, die rechnen und geben ihre Vorhersagen ab. Danach werden die echten Strukturen offengelegt und Vorhersage gegen Wirklichkeit gehalten, gemessen in einem Wert, der beschreibt, wie gut die vorhergesagten Atome auf den gemessenen liegen. Niemand kann sich das Ergebnis schönrechnen, weil die Antwort erst nach der Abgabe existiert.
 
-Vergleiche das kurz mit dem, was uns in der KI-Berichterstattung sonst als Beleg vorgesetzt wird: hauseigene Benchmarks, ausgewählte Beispiele, eine Demo auf einer Bühne. CASP ist eine Blindprüfung mit fremdem Prüfer.
+Vergleiche das mit dem, was uns in der KI-Berichterstattung sonst als Beleg vorgesetzt wird: hauseigene Benchmarks, ausgewählte Beispiele, eine Demo auf einer Bühne. CASP ist eine Blindprüfung mit fremdem Prüfer.
 
 2018 trat DeepMind das erste Mal an und gewann — deutlich, aber nicht in der Nähe experimenteller Genauigkeit. Zwei Jahre später, bei CASP14 im Jahr 2020, kam AlphaFold2. Der Median über die Zielproteine lag bei rund zweiundneunzig von hundert Punkten, und die Fachwelt hatte sich vorher darauf verständigt, dass Werte um neunzig ungefähr das sind, was man auch beim Nachmessen im Labor an Streuung erwarten würde. Die Organisatoren sagten sinngemäß, das Problem sei in einem wesentlichen Sinn gelöst.[24]
 

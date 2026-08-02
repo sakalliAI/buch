@@ -104,7 +104,7 @@ Der Witz wurde ernst genommen. Kimberly Young stellte 1996 auf einer Fachtagung 
 
 Aus einer satirischen Geste ist also ein ernstes, aber bis heute strittiges Forschungsfeld geworden. Ich finde das nicht komisch, sondern warnend. Ein Suchtbegriff hat rhetorisch enorme Wucht: Er verwandelt eine Verhaltensfrage in eine Krankheit, eine Diskussion in einen Notfall. Und er wandert bemerkenswert leicht von der Pointe in die scheinbar harte Diagnostik. Wenn du das nächste Mal „KI-Sucht" liest, frag nach den Kriterien und danach, wer sie aufgestellt hat.
 
-Eine vierte Sorge lief die ganze Zeit nebenher und ist älter als das Netz: die Informationsüberflutung. Den Begriff „information overload" hat Alvin Toffler 1970 in *Future Shock* populär gemacht, ein Vierteljahrhundert bevor irgendjemand ein Modem hatte.[12] Er wurde für das Internet einfach wiederverwendet. Wir sind damit wieder bei Erasmus und seiner Klage über die Bücherflut aus dem ersten Kapitel. Manche Ängste warten geduldig auf die nächste Technik.
+Eine vierte Sorge lief nebenher und ist älter als das Netz: die Informationsüberflutung. Den Begriff „information overload" hat Alvin Toffler 1970 in *Future Shock* populär gemacht, ein Vierteljahrhundert bevor irgendjemand ein Modem hatte; für das Internet wurde er einfach wiederverwendet.[12] Wir sind damit zurück bei Erasmus und seiner Klage über die Bücherflut. Manche Ängste warten geduldig auf die nächste Technik.
 
 ## Die Angst, die recht hatte
 
@@ -150,7 +150,7 @@ Bleiben wir bei den Fällen, in denen nicht entwarnt werden darf. Das Smartphone
 
 **Stufe zwei, plausibel, aber wacklig: der „Brain Drain".** Adrian Ward und Kollegen zeigten 2017, dass schon die bloße Anwesenheit des eigenen Smartphones — auf dem Tisch, in der Tasche, im Nebenraum — die verfügbare kognitive Kapazität verringert, und zwar umso stärker, je präsenter das Gerät ist.[19] Der Befund ist plausibel, jeder kennt das Gefühl, und er wird deshalb ständig zitiert. Nur ließ er sich in einem Replikationsversuch nicht reproduzieren, und eine Meta-Analyse relativiert seine Robustheit.[19] Das macht ihn nicht falsch. Es macht ihn zu etwas, das man nicht als gesicherte Tatsache verkaufen darf.
 
-Ich erwähne das ausdrücklich, weil dieser Befund gut in mein Weltbild passt und ich ihn deshalb besonders gern glauben würde. Das ist der unangenehmste Moment beim Faktenprüfen: nicht, wenn eine Studie einer Position widerspricht, die man ablehnt, sondern wenn sie einer stützt, die man mag, und dann bröckelt.
+Ich erwähne das ausdrücklich, weil dieser Befund gut in mein Weltbild passt und ich ihn deshalb besonders gern glauben würde. Das ist der unangenehmste Moment beim Prüfen: nicht wenn eine Studie einer Position widerspricht, die man ablehnt, sondern wenn eine bröckelt, die man mag.
 
 Auf derselben Stufe steht ein Alltagsphänomen mit einem hässlichen Namen. „Phubbing" — aus „phone" und „snubbing" — wurde im Mai 2012 im Rahmen einer Wörterbuchkampagne einer australischen Werbeagentur geprägt, also nicht in der Wissenschaft, sondern im Marketing.[20] Die Forschung hat den Begriff trotzdem aufgegriffen; Arbeiten zum „partner phubbing" verbinden ihn mit geringerer Beziehungs- und Lebenszufriedenheit bis hin zu depressiven Symptomen.[20] Effektstärken und Ursachenrichtung sind offen: Es ist genauso denkbar, dass unzufriedene Paare mehr aufs Handy schauen, wie umgekehrt.
 

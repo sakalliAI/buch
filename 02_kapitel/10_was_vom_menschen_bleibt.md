@@ -26,7 +26,7 @@ Ich finde diesen Zug bis heute großartig. Turing hat eine unbeantwortbare Frage
 
 Es war allerdings als Gedankenexperiment gemeint. Als Prüfstein für eine philosophische Frage. Nicht als Pflichtenheft.
 
-Genau das ist daraus geworden. Ein Maßstab, der lange genug an der Wand hängt, hört irgendwann auf, ein Maßstab zu sein, und wird ein Ziel. Seit siebzig Jahren misst sich das Fach am Menschen: Erkennt das System Sprache so gut wie ein Mensch? Übersetzt es so gut wie ein Mensch? Besteht es die Prüfung, die für Menschen gedacht war? Selbst die Werbung heutiger Anbieter lebt von dieser Vergleichsgröße. „Auf dem Niveau eines erfahrenen Fachmanns" ist ein Verkaufsargument, und zwar ein sehr wirksames, weil jeder Einkäufer sofort weiß, was es kostet, so einen Fachmann zu beschäftigen.
+Genau das ist daraus geworden. Ein Maßstab, der lange genug an der Wand hängt, hört irgendwann auf, ein Maßstab zu sein, und wird ein Ziel. Seit siebzig Jahren misst sich das Fach am Menschen: Erkennt das System Sprache so gut wie ein Mensch, übersetzt es so gut, besteht es die Prüfung, die für Menschen gedacht war? Auch die Werbung heutiger Anbieter lebt davon. „Auf dem Niveau eines erfahrenen Fachmanns" ist ein sehr wirksames Verkaufsargument, weil jeder Einkäufer sofort weiß, was so ein Fachmann kostet.
 
 Brynjolfssons Einwand setzt genau hier an, und er ist kein technischer, sondern ein ökonomischer.[1]
 
