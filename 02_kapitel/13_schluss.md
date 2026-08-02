@@ -118,7 +118,7 @@ Technik ist auch so ein Werkzeug, und sie ist eines der zugänglichsten, die es 
 
 Meine Frau und ich arbeiten ehrenamtlich mit Jugendlichen. Ich mag die Rolle des Mentors, ziemlich sicher deshalb, weil ich selbst keinen hatte und genau weiß, was mir gefehlt hat. Es fehlte mir nicht an Information; Information gab es auch damals reichlich. Es fehlte jemand, der einmal sagt: Was du da machst, ist keine Spielerei, das ist ein Beruf.
 
-Was ich diesen jungen Leuten sage, ist nicht „lern KI, sonst wirst du abgehängt". Das ist eine Drohung, und Drohungen erziehen zu Angst, nicht zu Können. Sie erzeugen außerdem genau die Haltung, die am wenigsten trägt: dass man sich mit einer Sache beschäftigt, damit einem nichts passiert. So bleibt niemand lange dabei. Was ich sage, ist: Bau dir was. Irgendwas Kleines, das dir selbst nützt. Dann merkst du in zwei Wochen mehr über diese Werkzeuge, ihre Stärken und ihre Lügen, als in zwei Jahren Debatte darüber. Und dann zeig es jemandem. Nicht wegen des Lobs, sondern weil du in dem Moment, in dem du erklärst, wie es funktioniert, merkst, welchen Teil du wirklich verstanden hast.
+Was ich diesen jungen Leuten sage, ist nicht „lern KI, sonst wirst du abgehängt". Das ist eine Drohung, und Drohungen erziehen zu Angst, nicht zu Können. Sie erzeugen außerdem die Haltung, die am wenigsten trägt: dass man sich mit einer Sache beschäftigt, damit einem nichts passiert. Dabei bleibt niemand lange. Was ich sage, ist: Bau dir was. Irgendwas Kleines, das dir selbst nützt. Dann merkst du in zwei Wochen mehr über diese Werkzeuge, ihre Stärken und ihre Lügen, als in zwei Jahren Debatte darüber. Und dann zeig es jemandem. Nicht wegen des Lobs, sondern weil du in dem Moment, in dem du erklärst, wie es funktioniert, merkst, welchen Teil du wirklich verstanden hast.
 
 Denn genau da kippt es. Angst ist ein Gefühl über etwas, das man nicht kennt. Kompetenz ist das, was daraus wird, wenn man es anfasst. Angst, die nichts zu tun bekommt, wird zu Vermeidung. Angst, die etwas zu tun bekommt, wird zu Sorgfalt. Ich hätte gern eine Gesellschaft voller sorgfältiger Leute; eine furchtlose wäre mir unheimlich.
 
@@ -128,7 +128,7 @@ Ich wünsche mir also nicht, dass du deine Angst verlierst. Ich wünsche mir, da
 
 Eine Prognose bekommst du von mir nicht. In Kapitel neun habe ich zu ausführlich erklärt, warum man Vorhersagen mit spitzen Fingern anfasst, als dass ich hier eine hinlegen dürfte. Eine Frage darf ich stellen, und ich finde sie ohnehin nützlicher: Woran würdest du in zwanzig Jahren merken, dass es gut gelaufen ist?
 
-Meine eigene Antwort darauf ist unspektakulär, und das ist Absicht.
+Meine eigene Antwort ist unspektakulär, und das ist Absicht.
 
 Daran, dass niemand mehr „mit KI" auf eine Verpackung schreibt, weil es so wenig Verkaufsargument hergibt wie „mit Strom". Daran, dass in einer Schulordnung ein nüchterner Absatz dazu steht, über den keine Konferenz mehr zwei Stunden diskutiert. Daran, dass unter einem Bescheid steht, wer ihn verantwortet, und dass diese Angabe stimmt. Daran, dass eine Auszubildende im ersten Jahr Aufgaben bekommt, an denen sie etwas lernt, und nicht nur die Reste, die das System übrig gelassen hat. Daran, dass jemand in einer Besprechung sagen kann „das habe ich nicht geprüft", ohne dass es ihm peinlich sein muss.
 
@@ -136,7 +136,7 @@ Und daran, dass ein Kind irgendwann fragt, warum wir früher eigentlich so ein T
 
 Das wäre die Ziellinie. Nicht Begeisterung. Langeweile.
 
-Ob es dazu kommt, weiß ich nicht. Ich weiß nur, von wem es abhängt, und die Antwort ist unangenehm unkonkret: von ziemlich vielen Leuten, die jeweils eine ziemlich kleine Entscheidung treffen.
+Ob es dazu kommt, weiß ich nicht. Ich weiß nur, woran es hängt: an ziemlich vielen Leuten, die jeweils eine ziemlich kleine Entscheidung treffen.
 
 ## Zum Schluss
 
@@ -164,7 +164,7 @@ Erst kam die Angst. Der Alltag kommt nicht von allein. Bauen wir ihn.
 
 [6] Samuel D. Warren & Louis D. Brandeis: *The Right to Privacy.* 4 Harvard Law Review 193 (1890) — „instantaneous photographs" als ausdrücklicher Anlass; „right to be let alone". → QUELLEN.md Nr. 43, ergänzend 113. — Ausführlich in Kapitel 5 belegt. **Wortlaut der Zitate vor Drucklegung am Volltext festlegen.**
 
-[7] ▲ John Eric Erichsen: *On Railway and Other Injuries of the Nervous System*, 1866; zur Debatte und zum späteren Verschwinden der Diagnose *railway spine*: Spitzer/Mull u. a., *The rise and fall of Erichsen's disease (railroad spine)*, Spinal Cord/Paraplegia 1996. Zum Legendenstatus der bayerischen Ärztewarnung: → QUELLEN.md Nr. 5, 6. → QUELLEN.md Nr. 7, 8. — Ausführlich in Kapitel 2 behandelt. **Autoren- und Bandangabe der Aufarbeitung von 1996 vor Drucklegung prüfen.**
+[7] ▲ John Eric Erichsen: *On Railway and Other Injuries of the Nervous System*, 1866; zur Debatte und zum späteren Verschwinden der Diagnose *railway spine*: Spitzer/Mull u. a., *The rise and fall of Erichsen's disease (railroad spine)*, Spinal Cord/Paraplegia 1996. → QUELLEN.md Nr. 7, 8. Zum Legendenstatus der bayerischen Ärztewarnung → QUELLEN.md Nr. 5, 6. — Ausführlich in Kapitel 2 behandelt. **Autoren- und Bandangabe der Aufarbeitung von 1996 vor Drucklegung prüfen.**
 
 [8] Verordnung (EU) 2024/1689 (KI-Verordnung / AI Act): in Kraft seit 1. August 2024; Verbote ab 2. Februar 2025, Pflichten für KI-Modelle mit allgemeinem Verwendungszweck ab 2. August 2025, Hochrisiko-Pflichten ab 2. August 2026, vollständige Anwendbarkeit ab 2. August 2027. → QUELLEN.md Nr. 84. — Ausführlich in Kapitel 8 behandelt.
 
