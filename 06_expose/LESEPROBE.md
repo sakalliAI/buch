@@ -1,0 +1,369 @@
+# Leseprobe
+
+**Erst kam die Angst, dann kam der Alltag**
+*Was Buchdruck, Dampflok und Smartphone über unsere Furcht vor künstlicher Intelligenz verraten*
+
+Emre Sakalli
+
+Diese Leseprobe umfasst die Einleitung und das erste Kapitel. Das vollständige Manuskript hat ca. 90.600 Wörter.
+
+---
+
+# Einleitung — Wovor hast du eigentlich Angst?
+
+Mein erster Bot hat Stunden gezählt.
+
+Genauer gesagt hat er Stundenbuchungen aus einem System genommen und in ein zweites übertragen. Zwei Programme, die nichts voneinander wissen wollten: In dem einen buchten die Kolleginnen und Kollegen ihre Zeiten, aus dem anderen kamen die Auswertungen. Dazwischen war eine Lücke, und in dieser Lücke saß ein Mensch.
+
+Sie saß da schon lange. Eine Kollegin, die diese Übertragung jahrelang gepflegt hatte, jeden Monat aufs Neue, zwei Fenster nebeneinander auf dem Bildschirm, links lesen, rechts eintragen, Zeile für Zeile. Sie war gut darin. Sie hatte sich einen Rhythmus zurechtgelegt, kleine Kontrollpunkte, eine eigene Reihenfolge, mit der sie sich absicherte. Sie beschwerte sich nicht. Wenn du jemanden fragst, der so eine Aufgabe erledigt, ob sie ihn stört, sagt er meistens erst mal nein. Man arrangiert sich. Man ist stolz darauf, dass es funktioniert, gerade weil es niemand sonst so sauber hinbekommt.
+
+Aber jeder Tippfehler wanderte weiter. Eine vertauschte Ziffer stand am Ende in einer Auswertung, auf die sich andere verließen. Und wenn zum Monatsende alles gleichzeitig fällig war, wurde es eng.
+
+Dann kam der Bot. Kein besonders kluges Ding, ehrlich gesagt: ein Ablauf, der nachts anlief, sich in beide Systeme einloggte, die Datensätze abglich und übertrug. Regeln, keine Intelligenz. Ich erinnere mich an den Morgen nach dem ersten sauberen Durchlauf. Man geht an den Rechner, öffnet das Protokoll und rechnet fest damit, dass irgendwo etwas rot ist. Es war nichts rot. Die Zahlen stimmten. Etwas, das jahrelang Stunden gefressen hatte, war über Nacht passiert, während niemand im Haus war.
+
+Die Erleichterung im Team war mit Händen zu greifen. Und die Kollegin, die das all die Jahre gemacht hatte, sah mich an und sagte etwas, das ich nicht vergessen habe.
+
+Erst: „Gott sei Dank."
+
+Und kurz danach, leiser: „Und was mache ich jetzt?"
+
+Beide Sätze in zehn Sekunden. Ich habe damals gelacht, weil ich dachte, das sei ein Witz. War es nicht. Es war der ehrlichste Satz, den ich in diesem Projekt gehört habe, und er hat mir mehr über Automatisierung beigebracht als jede Schulung.
+
+Denn die beiden Sätze widersprechen sich nicht. Sie stimmen beide gleichzeitig. Die Arbeit war stumpf, und sie loszuwerden war eine Befreiung. Und dieselbe Arbeit war ein Stück Sicherheit gewesen: etwas, das ihr gehörte, wofür man sie brauchte, was sie besser konnte als alle anderen. Der Bot hat ihr nicht nur eine lästige Tätigkeit abgenommen. Er hat ihr eine Antwort auf die Frage weggenommen, wozu sie da ist. Und diese Antwort hatte ihr niemand ersetzt, bevor die Maschine kam. Wir hatten wochenlang über Fehlerquoten und Laufzeiten gesprochen und keine fünf Minuten darüber, was das für die Frau bedeutet, die bis dahin die Schnittstelle war. Gefragt hatte sie auch niemand. Automatisierung wird fast immer über die Köpfe derer hinweg entschieden, deren Arbeit sie betrifft, nicht aus Bosheit, sondern weil es in den Projektunterlagen keine Zeile dafür gibt. Ich mache das heute anders herum: erst mit den Leuten reden, deren Aufgabe verschwinden soll, dann bauen. Es kostet ein paar Wochen mehr. Es erspart einem den Satz, den ich damals gehört habe.
+
+Das war vor einigen Jahren, in der Frühzeit dessen, was die Branche RPA nennt, Robotic Process Automation. Damals war die Skepsis ein Grundrauschen in jedem Meeting. Man wurde in Besprechungen gebeten, das Wort „Roboter" lieber nicht zu benutzen, weil sonst gleich die falschen Bilder im Kopf entstanden. In den Wochen nach dem ersten Bot kamen Leute aus anderen Abteilungen zu mir, und die Frage war fast nie „Kann das auch meinen Prozess?". Sie lautete „Kommt das jetzt bei uns auch?", und der Tonfall entschied darüber, was gemeint war. Manche hofften. Manche rechneten. Heute baue ich mir abends mit Werkzeugen wie Claude Code kleine Programme, die mir den Alltag erleichtern, und diese Werkzeuge sind unvergleichlich mächtiger als alles, was ich damals gebaut habe. Sie schreiben Code, lesen Dokumente, formulieren Texte. Der zweite Satz meiner Kollegin ist trotzdem geblieben. Er hat nur das Gewand gewechselt. Aus „Und was mache ich jetzt?" ist „Was, wenn die KI uns alle ersetzt?" geworden.
+
+Diese Frage ist nicht neu. Sie ist nicht einmal hundert Jahre alt. Sie ist Jahrhunderte alt, und genau darum geht es in diesem Buch.
+
+## Ein Mönch, der gegen den Buchdruck anschrieb
+
+Im Jahr 1492 setzte sich der Abt Johannes Trithemius hin und verfasste eine flammende Verteidigung der Handschrift. Sein Text trägt den Titel *De laude scriptorum*, „Lob der Schreiber".[1] Seine Sorge: Der neumodische Buchdruck werde die Mönche faul machen, das Gedächtnis verkümmern lassen, das mühevoll abgeschriebene Wort entwerten. Gedrucktes Papier vergilbe ohnehin in zweihundert Jahren, während ordentliches Pergament Jahrhunderte überdauere. Der Mensch verlerne das Denken, wenn ihm die Maschine die Arbeit abnehme.
+
+Du ahnst, was kommt. Trithemius ließ seine Streitschrift gegen den Buchdruck — drucken. Anders hätte sie kaum jemand gelesen. Der Mann, der vor der Maschine warnte, benutzte die Maschine, weil sie schlicht besser funktionierte.
+
+Wenige Jahrzehnte später beklagte sich der Gelehrte Erasmus von Rotterdam über etwas, das uns sehr vertraut vorkommt: die schiere Flut an Büchern, diese „Schwärme neuer Bücher", in denen niemand mehr das Wichtige vom Belanglosen unterscheiden könne.[2] Informationsüberflutung, anno 1525.
+
+Halte diesen Gedanken einen Moment fest. Das Gefühl, dass die neue Technik uns das Denken abgewöhnt, dass wir in Information ertrinken, dass etwas Wesentliches verloren geht — dieses Gefühl ist kein Produkt von ChatGPT. Es ist ein menschlicher Reflex, und er wird zuverlässig ausgelöst, seit wir Werkzeuge bauen, die uns über den Kopf zu wachsen scheinen.
+
+## Die Sache mit der Eisenbahn
+
+Wahrscheinlich kennst du die Geschichte: Als die ersten Eisenbahnen fuhren, hätten Ärzte gewarnt, das menschliche Gehirn halte Geschwindigkeiten über dreißig Stundenkilometer nicht aus, die Reisenden würden wahnsinnig. Oft wird ein bayerisches Medizinalkollegium als Quelle genannt.
+
+Diese Geschichte ist großartig. Sie hat nur einen Haken: Sie stimmt vermutlich nicht.[3] Für das angeblich so berühmte Gutachten gibt es keinen belastbaren Beleg. In den bayerischen Archiven wurde trotz intensiver Suche nichts dergleichen gefunden, und die zitierte Behörde lässt sich für die Zeit um 1835 nicht einmal nachweisen. Als Ursprung gilt heute eine Polemik des Historikers Heinrich von Treitschke, Jahrzehnte nach den ersten Zügen geschrieben, danach endlos weitergereicht.[3]
+
+Ich erzähle dir das gleich zu Beginn, weil es den Ton dieses Buches setzt. Ich bin nicht hier, um dir alte Schauergeschichten aufzutischen, über die wir gemeinsam lachen können, damit du dich der KI gegenüber überlegen fühlst. Das wäre billig. Und es wäre unehrlich. Wer die KI-Skepsis mit „damals hatte man ja auch Angst vor der Eisenbahn" abräumt, beruft sich ausgerechnet auf eine erfundene Warnung. Das ist kein guter Start für ein Gespräch über Belege.
+
+Denn die Wahrheit ist komplizierter, und sie ist interessanter. Manche Technikängste waren erfunden. Manche wurden bewusst geschürt, von Leuten, die etwas davon hatten. Und manche waren vollkommen berechtigt. Diese drei auseinanderzuhalten — darum geht es. Wer alles in einen Topf wirft und „war doch alles halb so wild" darüberstreut, betreibt dasselbe Geschäft wie die Panikmacher, nur mit umgekehrtem Vorzeichen.
+
+## Ein Muster, das sich wiederholt
+
+Wenn du die letzten fünfhundert Jahre durchgehst, taucht dasselbe Muster auf, immer wieder, fast schon langweilig in seiner Regelmäßigkeit. Eine neue Technik erscheint. Sie macht Angst. Es wird gewarnt, gespottet, verboten, gepredigt. Dann, nach einer Weile, wird sie Alltag, so selbstverständlich, dass die nächste Generation sich kaum vorstellen kann, dass jemand je Angst davor hatte.
+
+Der Buchdruck. Die Eisenbahn. Die Elektrizität, vor der man sich fürchtete wie heute mancher vor dem Mobilfunkmast. Das Telefon, das angeblich die Familie zerrütten würde. Das Auto. Das Radio, das Fernsehen, der Taschenrechner, der Computer, das Internet, das Smartphone. Jedes Mal dieselbe Kurve: erst der Schrecken, dann der Alltag.
+
+Die Wissenschaft hat dafür inzwischen einen Namen. Die Psychologin Amy Orben nennt es den „Sisyphos-Zyklus der Technikpaniken": Jede Generation rollt denselben Stein den Berg hinauf, fürchtet sich vor dem Neuen mit fast denselben Argumenten wie die Generation davor, vergisst es anschließend und ist dann ehrlich überrascht, wenn die eigenen Kinder dasselbe mit der nächsten Technik durchmachen.[4] Wir lernen das Muster nicht, weil wir es nach jedem Durchlauf wieder vergessen.
+
+Genau dieses Vergessen will dieses Buch beheben. Wenn du das Muster einmal klar vor dir siehst, verändert sich, wie du auf die künstliche Intelligenz schaust. Nicht weil das Muster beweist, dass alles gut wird. Sondern weil es dir die Panik aus den Knochen nimmt und den Kopf frei macht für die Fragen, die wirklich zählen.
+
+## Drei Sorten von Angst
+
+Ich muss an dieser Stelle ehrlich sein, sonst können wir uns die nächsten zweihundert Seiten sparen.
+
+Nicht jede Angst vor neuer Technik war Unsinn. Als die Kodak-Kamera Ende des 19. Jahrhunderts plötzlich jeden zum Schnappschuss-Fotografen machte, brach eine echte Sorge um die Privatsphäre aus. Wildfremde Leute konnten dich auf der Straße ablichten, ohne zu fragen, und das Bild landete irgendwo, wo du es nie zu sehen bekamst. Diese Sorge war so berechtigt, dass zwei amerikanische Juristen 1890 einen Aufsatz schrieben, der das moderne Recht auf Privatsphäre begründete.[5] Die Angst hatte recht, und sie hinterließ etwas Bleibendes. Oder das Smartphone: Dass die ständige Erreichbarkeit unseren Schlaf stört, ist keine Kulturpessimisten-Behauptung, sondern inzwischen gut belegt.[6] Manchmal liegt die Angst eben richtig.
+
+Die zweite Sorte ist unangenehmer, weil sie berechnend ist. Ende der 1880er Jahre führte Thomas Edison eine regelrechte Angstkampagne gegen den Wechselstrom seiner Konkurrenten Westinghouse und Tesla. Wechselstrom war technisch überlegen, und genau das war das Problem: Edison hatte auf Gleichstrom gesetzt. Also ließ sein Umfeld öffentlich Tiere mit Wechselstrom töten, um ihn als Killerstrom vorzuführen, und prägte für den Tod durch Stromschlag den Ausdruck „to be Westinghoused".[7] Auf Empfehlung aus demselben Lager wählte der Staat New York für die Todesstrafe Wechselstrom; am 6. August 1890 wurde William Kemmler als erster Mensch auf dem elektrischen Stuhl hingerichtet, ein qualvoller Vorgang.[8] Hier warnte niemand aus Sorge. Hier verteidigte ein etablierter Anbieter sein Geschäftsmodell mit Leichenbildern. Wenn dir heute jemand mit sehr drastischen Bildern erklärt, warum eine bestimmte Technik gefährlich ist, lohnt die Frage, wem die Antwort nützt.
+
+Und dann gibt es die dritte Sorte, die schlicht verpufft ist. Der Schriftsteller Robert Louis Stevenson schrieb 1878 einen Aufsatz gegen das elektrische Licht: Es sei grauenhaft, überirdisch, eine Zumutung für das menschliche Auge, ein Licht, das nur auf Morde und Verbrechen scheinen sollte oder in die Gänge von Irrenanstalten.[9] In England musste vor motorisierten Fahrzeugen jahrelang ein Mann mit roter Fahne herlaufen; die Fahne verschwand 1878 aus dem Gesetz, die Tempolimits von Schrittgeschwindigkeit blieben noch Jahrzehnte.[10] Beides klingt heute komisch. Beides war damals ernst gemeint, von ernst zu nehmenden Leuten.
+
+Drei Sorten, ein Gefühl. Von außen sehen sie identisch aus, und das ist der eigentliche Ärger: Im Moment der Angst kannst du nicht erkennen, in welcher der drei Kategorien du gerade steckst. Die Aufregung fühlt sich bei einer erfundenen Warnung genauso echt an wie bei einer berechtigten. Nachträglich sortieren kann jeder; im Rückblick sind wir alle klug. Die Kunst ist, die Sortierung zu versuchen, während man mittendrin steht, mit unvollständigen Informationen und einem Bauchgefühl, das laut dazwischenredet. Dafür braucht man kein Orakel, sondern ein paar unbequeme Fragen: Wer behauptet das? Woher weiß er es? Was hat er davon? Und was müsste passieren, damit ich meine Meinung ändere?
+
+## Kompass statt Beruhigungspille
+
+Deshalb verspreche ich dir nicht, dass die KI harmlos ist. Ich verspreche dir etwas Nützlicheres: einen ehrlichen Kompass. Und weil das eine große Behauptung ist, sage ich dir konkret, wie dieses Buch arbeitet.
+
+Erstens trenne ich drei Dinge, die in Debatten dauernd ineinanderlaufen. Ein **Beleg** ist etwas, das passiert ist oder gemessen wurde: eine Studie, ein Gesetz, ein Datum, ein Urteil. Eine **Prognose** ist eine Schätzung über die Zukunft, egal wie seriös die Institution ist, die sie ausspricht. Eine **Meinung** ist eine Position, meine oder die von jemand anderem. Wenn ich meine Meinung sage, schreibe ich dazu, dass es meine Meinung ist. Wenn ich eine Zahl bringe, findest du in den Endnoten, woher sie kommt, damit du es selbst nachprüfen kannst. Erfundene Studien und herbeizitierte Experten gibt es hier nicht.
+
+Zweitens zeige ich dir bei strittigen Fragen beide Seiten mit Namen und Zahlen. Ein Beispiel, das dich in Teil drei wieder einholen wird: Goldman Sachs schätzte 2023, generative KI könne die weltweite Wirtschaftsleistung um rund sieben Prozent steigern.[11] Der MIT-Ökonom Daron Acemoglu rechnete 2024 vor, der Produktivitätseffekt liege über zehn Jahre bei höchstens 0,66 Prozent.[12] Das ist keine kleine Meinungsverschiedenheit, das ist ein Faktor von rund zehn, zwischen zwei Adressen, die beide ernst zu nehmen sind. Beide Zahlen sind Prognosen, keine Messwerte. Wer dir nur eine davon zeigt, verkauft dir etwas.
+
+Drittens: Wo ich es nicht weiß, sage ich, dass ich es nicht weiß. Das kommt öfter vor, als mir lieb ist. Die Forschung zu vielen KI-Wirkungen ist zwei, drei Jahre alt, teilweise als Vorabdruck veröffentlicht und noch nicht unabhängig wiederholt. Ich werde dir das jedes Mal dazusagen, statt eine wacklige Zahl fett zu setzen, weil sie gut in meine Argumentation passt.
+
+Und viertens sage ich dir, wo ich befangen bin. Ich verdiene mein Geld damit, dass Automatisierung funktioniert. Ich baue diese Dinge, ich mag sie, und ich freue mich, wenn sie laufen. Jemand mit dieser Biografie hat einen eingebauten Drall zur guten Nachricht. Ich kann diesen Drall nicht abstellen, aber ich kann ihn dir offenlegen und mich zwingen, die Zahlen, die mir nicht passen, genauso ausführlich zu behandeln wie die anderen. An mindestens einer Stelle in Teil zwei wirst du merken, dass mir eine Studie sichtlich gegen den Strich geht. Sie steht trotzdem drin, mit allem, was für sie spricht.
+
+Das ist der Unterschied zwischen Beruhigung und Vertrauen. Beruhigung ist, wenn dir jemand sagt, du sollst dir keine Sorgen machen. Vertrauen ist, wenn du genug verstehst, um selbst zu entscheiden, worüber du dir Sorgen machen musst und worüber nicht. Das eine macht dich abhängig. Das andere macht dich frei.
+
+## Wer hier mit dir redet
+
+Ein Wort zu mir, damit du weißt, aus welcher Ecke ich komme. Aus dem Ruhrgebiet, um genau zu sein, aus Oberhausen.
+
+Mein Großvater kam als Gastarbeiter nach Deutschland. Mein Vater wurde mit vierzehn nachgeholt, ohne ein Wort Deutsch, und machte eine Ausbildung zum Schlosser. Meine Mutter lernte er in einem Dorf in der Türkei kennen; als ich zur Welt kam, war sie siebzehn. Ein Kind, das ein Kind bekam, tausend Kilometer von der eigenen Familie entfernt, in einer Sprache, die ihr auch nach fünfunddreißig Jahren noch schwerfällt. Ich habe als Jugendlicher gern Ausreden gesucht und dabei auch mal auf die Herkunft geschoben, wenn etwas nicht lief. Heute weiß ich es besser: Jeder ist seines Glückes Schmied. Und Technik ist eines der mächtigsten Werkzeuge, die einem das Schmieden erleichtern, wenn man keine Angst davor hat, sie in die Hand zu nehmen.
+
+Angefangen habe ich mit sieben. Erste Webseiten, HTML, zusammengeklaubt aus dem, was ich finden konnte, mit dieser vollkommen unverhältnismäßigen Begeisterung darüber, dass da etwas auf dem Bildschirm erscheint, weil ich es hingeschrieben habe. Später in der Schulzeit kamen erste kleine Programme dazu. Dann eine Ausbildung zum Informatikkaufmann, wo ich anfing, mit VBA und Access meine eigenen Aufgaben zu automatisieren, ganz eigennützig, weil ich keine Lust auf Fleißarbeit hatte. Irgendwann bekam ich die Chance, ein RPA-Team mitaufzubauen, und automatisierte als Entwickler die Prozesse der Kolleginnen und Kollegen. Da entstand auch der Bot vom Anfang dieses Buches.
+
+Heute leite ich ein Team, in dem Delivery Manager die Verantwortung für Crews tragen, die Automatisierungslösungen bauen: mal mit klassischen, regelbasierten Werkzeugen, mal mit künstlicher Intelligenz, je nachdem, was die Aufgabe braucht. Nicht KI um der KI willen. Ein sauber gebauter, stumpfsinniger Ablauf ist oft die bessere Lösung als ein Sprachmodell, das kreativ wird, wo niemand Kreativität bestellt hat. Privat baue ich mir abends mit Claude Code kleine Helfer für Dinge, die mich stören: flexibel, auf mich zugeschnitten, statt für jede Kleinigkeit ein weiteres Abo abzuschließen. Das ist übrigens der Teil, der mich an dieser Technik am meisten begeistert. Nicht dass sie Konzernen Kosten spart, sondern dass eine einzelne Person sich abends etwas bauen kann, wofür man vor zehn Jahren ein Projektbudget gebraucht hätte. Ich bin kein Philosoph und kein Zukunftsforscher, sondern Praktiker. Ich habe die Skepsis nicht aus Studien gelernt, sondern an echten Schreibtischen gesehen, auf den Gesichtern von Menschen, die nicht wussten, ob die Maschine ihr Freund oder ihr Nachfolger sein würde.
+
+Schon als Student habe ich in einer Facharbeit eine These vertreten, an die ich bis heute glaube: Automatisierung nimmt uns nicht einfach die Arbeit weg, sie verschiebt die Tätigkeit. Sie räumt das Stumpfe ab und schiebt uns das Anspruchsvollere zu. Das ist keine bequeme These, denn die Verschiebung tut weh, solange sie passiert, und sie trifft nicht alle gleich. Ob sie auch für die KI trägt, ist eine offene Frage, und ich werde sie in Teil zwei gegen die Daten laufen lassen, auch gegen die, die ihr widersprechen.
+
+Warum mich das umtreibt: Ich erlebe zu viele Menschen, die sich vor dem Neuen wegducken, nach dem Motto, früher sei alles besser gewesen. War es nicht. Wer dem Fortschritt grundsätzlich misstraut, müsste konsequenterweise mit dem Pferd zur Arbeit reiten statt mit Auto oder Bus. Macht aber keiner. Wir nehmen die Bequemlichkeiten, die uns die alten, einst gefürchteten Techniken schenken, völlig selbstverständlich. Meine Frau und ich arbeiten ehrenamtlich mit Jugendlichen, und dort sehe ich beides: die, die sich alles zutrauen, und die, die von vornherein glauben, das sei nichts für sie. Ich hatte in meiner Jugend keinen Mentor. Ich weiß ziemlich genau, was mir das gekostet hat. Dieses Buch ist der Versuch, für ein Thema die Rolle zu übernehmen, die mir damals gefehlt hat.
+
+## Wie dieses Buch gebaut ist
+
+Damit du weißt, was dich erwartet, hier die Landkarte.
+
+Der **erste Teil** zeigt dir das Muster. Wir gehen zurück zu Trithemius und seinem Buchdruck, steigen in einen frühen Zug, sehen dem Stromkrieg zu, hören beim Telefon und beim Fernsehen zu, wie dieselben Sätze in neuen Kostümen wiederkehren. Und wir schauen uns an, warum unser Verstand auf Neues so verlässlich mit Furcht reagiert und warum das evolutionär eine ziemlich gute Idee war. Dazu kommen die Werkzeuge, mit denen die Forschung solche Wellen beschreibt: was eine moralische Panik ausmacht, warum wir kurzfristig immer zu viel und langfristig immer zu wenig erwarten, und warum man eine Technik am Anfang leicht steuern könnte, aber noch nicht versteht — und am Ende versteht, aber kaum noch steuern kann. Am Ende des ersten Teils wirst du den Reflex erkennen, sobald du ihn siehst, auch bei dir selbst. Das ist keine Immunisierung. Ich erkenne ihn bei mir auch und habe ihn trotzdem.
+
+Der **zweite Teil** zieht eine ehrliche Bilanz der KI von heute. Nimmt sie dir die Arbeit weg? Macht sie uns dümmer? Was ist mit Diskriminierung, Datenschutz, Falschinformation, Energieverbrauch? Hier wird es konkret. Rechenzentren verbrauchten 2024 rund 415 Terawattstunden Strom, etwa anderthalb Prozent des weltweiten Verbrauchs[13] — und die eigentliche Arbeit beginnt genau da: Ist das viel? Verglichen womit? Solche Fragen sind der Alltag dieses Teils. Hier trenne ich Beleg, Prognose und Meinung besonders streng, und hier schenke ich dir nichts, in keine Richtung. Du wirst Studien finden, die eine deutliche Produktivitätssteigerung messen, und daneben eine, in der erfahrene Entwickler mit KI-Unterstützung langsamer wurden, obwohl sie selbst überzeugt waren, schneller zu sein.[14] Beide sind seriös. Beide stehen drin.
+
+Der **dritte Teil** führt vom Fürchten zum Vertrauen. Wir hören uns die großen Prognosen an, die euphorischen wie die düsteren, und lernen, sie zu lesen. Das ist eine Fähigkeit für sich: 1995 erklärte der Astronom und frühe Netzpionier Clifford Stoll in *Newsweek*, warum das Internet weder den Handel noch die Zeitungen noch die Schule ernsthaft verändern werde.[15] Er war klug, er kannte das Netz besser als fast jeder andere, und er lag daneben. Danach reden wir darüber, was vom Menschen bleibt, wenn die Maschine immer mehr kann. Im zwölften Kapitel sage ich dir, wovor ich tatsächlich Angst habe, und das ist nicht das, was in den Schlagzeilen steht. Und am Ende bekommst du etwas Praktisches in die Hand: wie man Vertrauen aufbaut, ohne naiv zu werden. Vertrauen ist keine Stimmung, es ist eine Fähigkeit, und Fähigkeiten kann man lernen.
+
+Die Kollegin von damals hat ihren Job übrigens behalten. Sie macht heute nicht mehr die nächtliche Übertragung, die der Bot erledigt. Sie macht das, wofür vorher nie Zeit war. Ihre Tätigkeit hat sich verschoben, genau wie in meiner Facharbeit. Ob das auch im großen Maßstab so kommt, mit der KI, das ist keine ausgemachte Sache, und wir werden den Daten dazu auf den Grund gehen.
+
+Aber eines steht fest: Die Lok fährt los, ob wir nun Angst haben oder nicht. Die Frage ist bloß, ob wir am Bahnsteig stehen bleiben — oder einsteigen und schauen, wohin sie fährt. Ich finde, einsteigen ist die klügere Wahl. Lass mich dir zeigen, warum.
+
+---
+
+## Quellen zu dieser Einleitung
+*(Endnoten-Nummerierung kapitelweise; Mapping auf das zentrale `QUELLEN.md`.)*
+
+[1] Johannes Trithemius: *De Laude Scriptorum (Lob der Schreiber)*. 1492 (gedruckt). Vgl. krit. Ausgabe hrsg. Klaus Arnold, Übers. R. Behrendt, 1974; History of Information. → QUELLEN.md Nr. 1, 3. ▲ Wortlaut vor Druck verifizieren.
+[2] Erasmus von Rotterdam: Klage über die „Bücherflut" (Adagium *Festina lente*, 1525/26). → QUELLEN.md Nr. 4. ▲ vor Druck am Original absichern.
+[3] Zur „bayerischen Ärztewarnung" als wahrscheinliche Legende, zum Archiv-Negativbefund und zum Treitschke-Ursprung: *Eisenbahnkrankheit* (Überblick m. Forschungsstand); W. K. Mück (kein Obermedizinalkollegium um 1835 nachweisbar). → QUELLEN.md Nr. 5, 6.
+[4] Amy Orben: *The Sisyphean Cycle of Technology Panics*. Perspectives on Psychological Science 15(5), 2020, DOI 10.1177/1745691620919372. → QUELLEN.md Nr. 54.
+[5] Samuel D. Warren & Louis D. Brandeis: *The Right to Privacy*. 4 Harvard Law Review 193 (1890). → QUELLEN.md Nr. 43.
+[6] Elektronische Mediennutzung & Schlafqualität (Meta-Analyse). → QUELLEN.md Nr. 41.
+[7] Zum „Stromkrieg": Edisons AC-Angstkampagne, Harold P. Brown, öffentliche Tier-Elektrokutionen, Begriff „to be Westinghoused"; technische Überlegenheit und Durchsetzung des Wechselstroms. → QUELLEN.md Nr. 9, 10.
+[8] Erste Hinrichtung auf dem elektrischen Stuhl: William Kemmler, 6.8.1890, Auburn (New York), Wechselstrom. → QUELLEN.md Nr. 11.
+[9] Robert Louis Stevenson: *A Plea for Gas Lamps*. 1878, in *Virginibus Puerisque*, 1881 („horrible, unearthly, obnoxious to the human eye"). → QUELLEN.md Nr. 12. ▲ Deutsche Übersetzung der zitierten Wendungen vor Drucklegung festlegen; im Text bewusst Paraphrase.
+[10] *Locomotive Acts* (Großbritannien): Red Flag Act 1865; Wegfall der roten Fahne 1878; Anhebung der Tempolimits 1896. → QUELLEN.md Nr. 18. ▲ Datierungen vor Drucklegung final prüfen.
+[11] Goldman Sachs Research (Briggs/Kodnani): *Generative AI Could Raise Global GDP by 7%*. 2023. [Prognose] → QUELLEN.md Nr. 96.
+[12] Daron Acemoglu: *The Simple Macroeconomics of AI*. NBER Working Paper 32487, April 2024 (≤ 0,66 % TFP über zehn Jahre). [Prognose] → QUELLEN.md Nr. 110.
+[13] IEA: *Energy and AI*. April 2025 (Rechenzentren 2024: rund 415 TWh, ca. 1,5 % des weltweiten Stromverbrauchs). → QUELLEN.md Nr. 86.
+[14] Gegenläufige Produktivitätsbefunde: Brynjolfsson/Li/Raymond, *Generative AI at Work*, QJE 140(2), 2025 (~15 %); Peng et al., *GitHub Copilot*, arXiv:2302.06590, 2023 — gegenüber METR: *Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity*, arXiv:2507.09089, 2025 (19 % langsamer bei gegenteiliger Selbsteinschätzung). → QUELLEN.md Nr. 55, 56, 64.
+[15] Clifford Stoll: *Why the Web Won't Be Nirvana*. Newsweek, 1995. → QUELLEN.md Nr. 35. ▲ Wortlaut/Datum vor Drucklegung am Originalartikel prüfen.
+
+
+---
+
+# Kapitel 1 — Die Angst ist älter als die Maschine
+
+Vor einiger Zeit saß ich in einem Workshop, in dem wir einem Fachbereich zeigten, wie ein KI-Assistent ihre Recherchearbeit abkürzen könnte. Es lief gut. Die Leute stellten Fragen, probierten Formulierungen aus, jemand lachte über eine Antwort, die daneben lag. Dann meldete sich ein Kollege, seit zwanzig Jahren im Haus, sehr gut in dem, was er tut, und sagte den Satz, den ich seither in Variationen überall höre:
+
+„Wenn ich das Ding jeden Tag benutze — verlerne ich dann nicht, selbst zu denken?"
+
+Es war keine rhetorische Frage. Er wollte es wirklich wissen. Und ich muss zugeben: Es ist eine gute Frage. Wir kommen im siebten Kapitel darauf zurück, wo ich dir Daten dazu zeige, die dir vielleicht nicht gefallen werden.
+
+Aber in diesem Moment fiel mir etwas anderes auf. Ich hatte diesen Satz schon einmal gelesen. Nicht in einer Studie, nicht auf LinkedIn. In einem Text aus dem Jahr 1492.
+
+## Ein Abt schreibt gegen die Maschine
+
+Sponheim liegt in der Nähe von Bad Kreuznach, an der Nahe, im Hügelland zwischen Hunsrück und Rheinebene. Dort stand ein Benediktinerkloster, das in den 1480er Jahren keinen besonders guten Ruf hatte: heruntergewirtschaftet, unterbesetzt, mit einer Bibliothek, die aus ein paar Dutzend Bänden bestand. 1483 bekam es einen neuen Abt. Johannes Trithemius, geboren 1462 in Trittenheim an der Mosel, war zu diesem Zeitpunkt einundzwanzig Jahre alt.[9]
+
+Er blieb dreiundzwanzig Jahre, und was er in dieser Zeit aufbaute, machte ihn im Reich berühmt. Die Bibliothek von Sponheim wuchs von den paar Dutzend Bänden auf rund zweitausend an — für ein Kloster dieser Größenordnung eine Sammlung, wegen der Gelehrte anreisten.[9] Trithemius war kein weltferner Betbruder. Er korrespondierte mit Humanisten, er schrieb über Geschichte, über Kryptografie, über Dinge am Rand des Erlaubten. Sein bekanntestes Werk, die *Steganographia*, ist ein Buch über verschlüsselte Nachrichtenübermittlung, verkleidet als Beschwörungsliteratur; es wurde erst 1606 gedruckt und landete kurz darauf auf dem Index der verbotenen Bücher.[11] Darauf komme ich am Ende zurück.
+
+Um 1492, mit dreißig, setzte sich dieser Mann hin und verfasste eine Streitschrift mit dem Titel *De laude scriptorum*: „Lob der Schreiber".[1]
+
+Der Anlass war der Buchdruck. Gutenbergs Verfahren mit den beweglichen Lettern war zu diesem Zeitpunkt gut vierzig Jahre alt und hatte Europa in einer Geschwindigkeit überzogen, auf die ich gleich genauer eingehe. Wo 1450 noch Mönche Zeile für Zeile abschrieben, standen jetzt in Hunderten von Städten Pressen. Bücher, die vorher ein Vermögen kosteten und Monate der Arbeit, wurden in Auflagen hergestellt. Es war die größte Umwälzung im Umgang mit Wissen, die der Kontinent bis dahin gesehen hatte.
+
+Und Trithemius hielt dagegen. Seine Argumente lohnen es, sie einzeln anzusehen, denn du wirst sie wiedererkennen.
+
+**Erstens: Der Mensch wird faul.** Das Abschreiben von Hand, so Trithemius, sei eine geistige und geistliche Übung. Wer einen Text kopiert, geht ihn Wort für Wort durch, verinnerlicht ihn, arbeitet ihn in sich hinein. Der Druck nehme dem Mönch diese Arbeit ab und damit den Nutzen der Arbeit. Es gebe, schrieb er sinngemäß, keinen größeren Feind der frommen Seele als den Müßiggang.[1] Man muss sich das im Kontext eines Klosters vorstellen: Der Tag war in Gebet und Arbeit eingeteilt, und das Skriptorium war der Ort, an dem beides zusammenfiel. Wer schrieb, betete mit der Hand. Fällt die Handarbeit weg, fällt eine Form der Frömmigkeit weg, und was bleibt, ist ein Mönch, der Zeit hat. Übersetzt in heutige Sprache: Wenn die Maschine die Denkarbeit übernimmt, hört der Mensch auf zu denken.
+
+**Zweitens: Die Qualität verfällt.** Gedruckte Bücher waren zunächst oft fehlerhaft. Wo ein sorgfältiger Schreiber ein Manuskript prüfte und beim Kopieren mitdachte, spuckte die Presse hundert identische Exemplare eines Fehlers aus. Skalierte Schlamperei, würde man heute sagen. Und anders als beim Abschreiben, wo jeder Fehler ein Einzelfall bleibt, wird der Druckfehler zum Standard.
+
+**Drittens, und das ist mein Lieblingsargument: Das Papier hält nicht.** Trithemius wandte ein, gedruckte Bücher auf Papier zerfielen nach zwei Jahrhunderten, während sorgfältig beschriebenes Pergament ein Jahrtausend überdauere.[1][3] Eine Warnung über die Langzeitarchivierung von Wissen, vorgetragen 1492. Wenn du dich schon einmal gefragt hast, ob deine Fotos auf der alten Festplatte in dreißig Jahren noch lesbar sein werden, hast du gerade Trithemius zitiert.
+
+Und jetzt die Pointe, die den ganzen Fall erst wertvoll macht.
+
+Trithemius ließ seine Streitschrift gegen den Buchdruck **drucken**. 1494, bei Peter von Friedberg in Mainz.[1][2] Handschriftlich hätte sie vielleicht ein Dutzend Menschen erreicht. Gedruckt erreichte sie ein Publikum. Er war außerdem ein begeisterter Sammler gedruckter Bücher und baute die Bibliothek seines Klosters mit ihnen massiv aus.
+
+Es kommt noch dicker. Im selben Jahr 1494 erschien in Basel ein weiteres Werk von ihm, der *Liber de scriptoribus ecclesiasticis*, ein Verzeichnis kirchlicher Schriftsteller mit ihren Werken.[10] Das ist, wenn man es nüchtern betrachtet, eine der frühen gedruckten Bibliografien: ein Hilfsmittel, um sich in einer wachsenden Menge von Texten zurechtzufinden. Der Mann, der gegen die Bücherproduktion anschrieb, lieferte im selben Atemzug ein Werkzeug zur Bewältigung der Bücherproduktion. Und er ließ es drucken, weil ein Verzeichnis, das nur einmal existiert, ungefähr so nützlich ist wie ein Telefonbuch in einer Auflage von eins.
+
+Man kann das billig finden und ihn einen Heuchler nennen. Ich halte das für den falschen Schluss, und ich glaube, hier steckt die eigentliche Lehre für uns. Trithemius war kein Dummkopf und kein Heuchler. Er war ein Mensch mitten in einem Umbruch, der die neue Technik gleichzeitig fürchtete und benutzte, weil sie schlicht funktionierte. Genau da stehen heute Millionen Menschen mit der KI. Sie posten Bedenken über KI in Netzwerken, deren Feed von KI sortiert wird. Sie schreiben Texte darüber, dass KI das Schreiben ruiniert, und lassen sich die Rechtschreibung von einem Modell prüfen. Das ist keine Doppelmoral. Das ist der Normalzustand während einer Umwälzung: Man nutzt, was besser funktioniert, und die Angst läuft nebenher mit.
+
+Übrigens ist die Frage, wer in der Sache recht hatte, komplizierter, als es der Spott nahelegt. Zum Papier: Trithemius lag nicht völlig falsch. Papier aus dem 19. Jahrhundert zerfällt tatsächlich, Säurefraß ist ein reales und teures Problem in jeder großen Bibliothek. Nur hatte er die Rechnung falsch aufgestellt. Der Druck gleicht die schlechtere Haltbarkeit durch Menge aus. Ein Text, der in tausend Exemplaren existiert, überlebt, auch wenn neunhundert davon vergammeln. Ein Unikat auf bestem Pergament ist weg, wenn die Bibliothek brennt. Redundanz schlägt Materialqualität. Das ist, nebenbei, exakt das Prinzip, nach dem heute jedes Rechenzentrum deine Daten sichert.
+
+## Was er tatsächlich vor sich sah
+
+Damit du verstehst, warum ein vernünftiger Mensch 1492 in Panik geriet, muss ich dir zeigen, was in den vierzig Jahren davor passiert war. Denn „der Buchdruck kam auf" klingt nach einer allmählichen Sache. Es war keine.
+
+Um 1454/55 lag in Mainz die erste größere Arbeit aus Gutenbergs Werkstatt vor, die zweiundvierzigzeilige Bibel, hergestellt vermutlich in einer Auflage von unter zweihundert Exemplaren.[7] Von dort aus ging es schneller, als irgendjemand vorbereitet war. Bamberg und Straßburg noch in den späten 1450er Jahren. Köln 1465. Im selben Jahr richteten zwei Deutsche im italienischen Kloster Subiaco die erste Presse südlich der Alpen ein. Venedig 1469. Paris 1470. Krakau 1473. Westminster 1476, wo William Caxton anfing, englisch zu drucken. Bis zum Jahr 1500 wurde in mehr als zweihundertfünfzig europäischen Städten gedruckt.[7]
+
+Die Bücher aus dieser Zeit — alles, was vor dem 1. Januar 1501 gedruckt wurde — nennt man Inkunabeln, Wiegendrucke. Der zentrale Katalog dieser Frühdrucke verzeichnet um die dreißigtausend verschiedene Ausgaben. Wie viele Exemplare das insgesamt waren, weiß niemand genau; die Schätzungen der Forschung schwanken erheblich und liegen meist zwischen acht und zwanzig Millionen Stück.[7] Kein Ort druckte mehr als Venedig.
+
+Und wie sah das aus, konkret? Der Ablauf lässt sich aus zeitgenössischen Bildquellen und späteren Handbüchern gut rekonstruieren.[8] Stell dir einen Raum vor, in dem es nach Leinöl und Ruß riecht, denn daraus wird die Druckfarbe angerührt, eine zähe, klebrige Sache, näher an Ölfarbe als an Tinte. An der Wand stehen schräge Kästen mit Fächern für die einzelnen Buchstaben. Davor steht der Setzer und nimmt Letter für Letter heraus, seitenverkehrt, und reiht sie in einem Winkelhaken aneinander. Eine Seite Text sind ein paar tausend Handgriffe. Ist der Satz fertig, wird er in einen Rahmen gespannt und festgekeilt, damit sich nichts verschiebt.
+
+An der Presse arbeiten zwei. Der eine schwärzt die Form mit zwei Lederballen ein, die mit Hundehaar ausgestopft sind, weil Hundehaar keine Poren hat und die Farbe nicht aufsaugt. Der andere legt den angefeuchteten Bogen ein, fährt den Karren unter den Tiegel, zieht am Bengel, fährt zurück, verschiebt, zieht noch einmal — bei den meisten Formaten braucht ein Bogen zwei Züge. Ein eingespieltes Paar schaffte grob zweihundert bis zweihundertfünfzig Abzüge in der Stunde.[8]
+
+Rechne das gegen einen Mönch im Skriptorium, der an einem umfangreichen Buch Monate sitzt. Große Häuser fuhren mehrere Pressen gleichzeitig; die Offizin des Nürnbergers Anton Koberger, der 1493 die *Schedelsche Weltchronik* herausbrachte, gilt als der größte Betrieb dieser Art im Reich.[8]
+
+Das war die Lage, als Trithemius zur Feder griff. Er stand nicht am Anfang einer Entwicklung und warnte vorsorglich. Er stand mittendrin und sah in einer einzigen Generation ein Handwerk verschwinden, das seit tausend Jahren die Grundlage klösterlicher Gelehrsamkeit gewesen war. Das ist keine dumme Reaktion. Das ist die Reaktion eines Menschen, der begriffen hat, was gerade passiert.
+
+## Noch älter: der Gott, der das Schreiben erfand
+
+Wenn du glaubst, 1492 sei früh, muss ich dich enttäuschen. Der Reflex ist noch deutlich älter, und zwar so alt, dass er sich gegen eine Technik richtete, die wir heute nicht einmal mehr als Technik wahrnehmen: die Schrift selbst.
+
+Die Szene, in der das steht, ist eine der bekanntesten der antiken Literatur. In Platons Dialog *Phaidros*, etwa 370 vor Christus geschrieben, gehen Sokrates und der junge Phaidros an einem heißen Mittag aus Athen hinaus, an den Fluss Ilissos, waten barfuß durchs Wasser und legen sich unter eine Platane. Phaidros hat eine Rede dabei — als Text, unter dem Mantel versteckt. Aus dieser Situation heraus, ein geschriebener Text als Gesprächsgegenstand, kommt Sokrates am Ende auf die Frage, was das Schreiben eigentlich mit uns macht. Und er erzählt eine ägyptische Geschichte.[4][12]
+
+Der Gott Theuth, so Sokrates, habe die Zahl erfunden, das Rechnen, die Geometrie, die Sternkunde, das Brettspiel und das Würfelspiel — und schließlich die Buchstaben. Damit sei er zum König Thamus gegangen, um die Erfindungen vorzuführen, damit der König sie an die Ägypter weitergebe. Beim Alphabet hält Theuth seinen Vortrag, stolz wie ein Gründer beim Pitch: Diese Kunst werde die Ägypter weiser machen und ihr Gedächtnis stärken; er habe ein Mittel für Erinnerung und Weisheit gefunden.
+
+Thamus widerspricht, und er widerspricht auf eine Weise, die es in sich hat. Erstens verweigert er dem Erfinder das Urteil über die eigene Erfindung: Wer etwas hervorbringt, sagt der König sinngemäß, ist nicht deshalb auch in der Lage zu beurteilen, was es den Nutzern nützt oder schadet. Zweitens dreht er die Wirkung um. Die Schrift werde in den Seelen derer, die sie lernen, Vergessen erzeugen, weil sie das Gedächtnis nicht mehr üben. Sie würden sich auf äußere, fremde Zeichen verlassen statt auf das Erinnern von innen heraus. Theuth habe kein Mittel für das Erinnern gefunden, sondern nur eines fürs Erinnertwerden. Und drittens, der Satz, der bis heute sitzt: Die Schüler würden vieles gehört haben, ohne unterrichtet worden zu sein, und deshalb **scheinbar** weise sein statt weise.[4]
+
+Lies das noch einmal und denke an jemanden, der sich einen Sachverhalt von einem Chatbot zusammenfassen lässt und danach im Meeting so redet, als hätte er die Materie durchdrungen. Zweitausendvierhundert Jahre. Dieselbe Sorge, fast wortgleich.
+
+Sokrates lässt es dabei nicht bewenden, und der zweite Teil seiner Kritik ist der schärfere. Geschriebene Worte, sagt er, seien wie Gemälde: Sie stehen da wie lebendig, aber wenn du sie etwas fragst, schweigen sie feierlich. Sie antworten immer nur dasselbe, egal wer fragt und warum. Ein Text kann sich seine Leser nicht aussuchen; er rollt überallhin, zu denen, die ihn verstehen, und zu denen, die ihn nicht verstehen, und er weiß nicht, zu wem er reden soll und zu wem nicht. Und wenn er ungerecht angegriffen wird, braucht er immer die Hilfe seines Vaters, weil er sich nicht selbst verteidigen kann.[12]
+
+Nimm den letzten Punkt ernst. Das ist keine Kulturkritik, das ist eine präzise Beschreibung dessen, was passiert, wenn Inhalte sich vom Sprecher lösen und allein weiterwandern. Jeder, der schon einmal einen aus dem Zusammenhang gerissenen Satz von sich in einem fremden Kommentarbereich wiedergefunden hat, weiß, was Sokrates meint. Die heutige Version ist noch eine Stufe härter: Ein Modell antwortet zwar auf Rückfragen, aber es weiß ebenso wenig, wer da fragt und was der Fragende mit der Antwort vorhat.
+
+Es kommt noch besser. Platon schrieb diese Kritik an der Schrift auf. Er hätte auch das nicht tun müssen; seine ganze Philosophie kreiste um das lebendige Gespräch, und im *Phaidros* selbst nennt er die eigentliche Rede diejenige, die mit Wissen in die Seele des Lernenden geschrieben wird und die sich wehren kann. Aber ohne die Schrift, gegen die er argumentierte, hätte kein Mensch je davon erfahren.
+
+Warum hat er es trotzdem getan? Die ehrlichste Antwort ist: Wir wissen es nicht sicher. Es gibt aber zwei Beobachtungen, die man machen kann, ohne zu spekulieren. Die erste ist die Form. Platon schreibt keine Traktate, er schreibt Dialoge — Texte, die so tun, als wären sie Gespräche, mit Einwänden, Umwegen, Missverständnissen und Sprechern, die einander unterbrechen. Das ist der Versuch, das Beste der mündlichen Form in das neue Medium hinüberzuretten. Er hat die Schrift nicht abgelehnt, er hat sie umgebaut. Die zweite Beobachtung: Im sogenannten Siebten Brief, dessen Echtheit die Forschung bis heute bestreitet, steht die Bemerkung, über die letzten und wichtigsten Dinge gebe es von ihm keine Schrift und werde es keine geben.[13] Wenn der Brief echt ist, hat Platon eine Grenze gezogen statt eines Verbots: Das meiste kann man schreiben, das Wichtigste nicht. Ich halte das für die klügere Haltung, aber sie ist nicht meine, ich habe sie nur geerbt.
+
+Trithemius hat also nicht einmal die Ironie erfunden. Auch die hat er geerbt.
+
+Und noch etwas ist bemerkenswert. Thamus lag nicht komplett daneben. Unser Gedächtnis für Texte ist tatsächlich schwächer geworden. Homers Epen wurden über Generationen mündlich weitergegeben, Zehntausende Verse, auswendig. Kein normaler Mensch heute kann das. Wir haben diese Fähigkeit gegen etwas anderes eingetauscht, und zwar gegen ein Vielfaches an verfügbarem Wissen. Die Frage ist nie, ob wir etwas verlieren. Wir verlieren immer etwas. Die Frage ist, was wir dafür bekommen und ob der Tausch sich lohnt. Bei der Schrift würde heute niemand ernsthaft rückabwickeln wollen.
+
+Merke dir diese Formulierung. Sie ist eines der wichtigsten Werkzeuge in diesem Buch, und wir werden sie im fünften Kapitel schärfen und in Kapitel sieben auf die KI anwenden: Nicht „Was verlieren wir?", sondern „Was verlieren wir, was gewinnen wir, und wie steht die Bilanz?"
+
+## Die Bücherflut, anno 1525
+
+Eine Generation nach Trithemius war der Kampf entschieden. Der Buchdruck war überall, die Pressen liefen, niemand debattierte mehr ernsthaft, ob er sich durchsetzen würde. Man hätte meinen können, damit sei die Sorge erledigt.
+
+War sie nicht. Sie hatte nur die Form gewechselt.
+
+Erasmus von Rotterdam war der berühmteste Gelehrte Europas, ein Mann, der von seiner Feder lebte und dessen Bücher in ganz Europa nachgedruckt wurden. Er war das Gegenteil eines Druckgegners. Sein bekanntestes Werk, die *Adagia*, eine kommentierte Sammlung antiker Sprichwörter, wuchs über Jahrzehnte von einigen hundert Einträgen auf mehrere tausend an — ein Buch, das ohne die Möglichkeit ständig erweiterter Neuauflagen gar nicht denkbar wäre.[14] Er wusste, was er der Presse verdankte.
+
+Trotzdem klagte er, und zwar über etwas anderes als Trithemius: über die schiere Masse. In dem Adagium *Festina lente* — „Eile mit Weile" —, das er in der Ausgabe von 1525/26 stark ausbaute, beschwert er sich über die „Schwärme neuer Bücher", die den Markt überschwemmten.[5] Sein Vorwurf richtete sich nicht gegen die Technik, sondern gegen die Gewöhnlichen unter den Druckern, denen ein elendes Goldstück mehr wert sei als das gesamte Reich der Wissenschaft. Sie druckten schnell, billig und schlecht, und das Ergebnis war eine Flut, in der das Gute unterging.
+
+Das ist, wenn man ehrlich ist, eine der ersten ausführlich dokumentierten Klagen über Informationsüberflutung. Und sie ist strukturell identisch mit dem, was heute unter dem Stichwort „AI slop" diskutiert wird: mit KI in Sekunden erzeugte, mittelmäßige Inhalte, die das Netz volllaufen lassen, sodass man die guten Sachen nicht mehr findet. Erasmus hatte kein Empfehlungsalgorithmus-Problem, aber er hatte exakt das Problem dahinter.
+
+Und wieder ist es interessanter, als bloß „siehste, ging doch gut aus" zu sagen. Denn Erasmus hatte recht. Es *wurde* viel Müll gedruckt. Die Kritik traf zu.
+
+## Wie man eine Flut sortiert
+
+Was Erasmus nicht vorhersehen konnte, war die Antwort darauf. Die Gesellschaft löste das Problem nicht, indem sie weniger druckte, sondern indem sie Werkzeuge erfand, um mit der Menge umzugehen. Die Historikerin Ann Blair hat diesem Vorgang ein ganzes Buch gewidmet: wie die frühe Neuzeit sich Hilfsmittel gegen die eigene Textfülle baute.[15] Die wichtigsten benutzt du heute noch, ohne darüber nachzudenken.
+
+**Die Titelseite.** Handschriften begannen einfach mit dem Text. Wer wissen wollte, was er in der Hand hielt, musste lesen. Erst mit dem Druck entstand die Seite, die vorneweg sagt, was das hier ist, von wem, gedruckt von wem, wo und wann. Das ist eine Erfindung, die aussieht wie keine. Sie ist eines der wirksamsten Filterinstrumente überhaupt: Sie erlaubt eine Entscheidung in zwei Sekunden.
+
+**Seitenzahlen, Register, Inhaltsverzeichnisse.** In einem Unikat, das du dein Leben lang liest, brauchst du keinen Index. In einer Bibliothek von tausend Büchern, die du nach einer bestimmten Stelle durchsuchen willst, brauchst du dringend einen. Das alphabetische Register ist keine Nebensache der Buchgeschichte, es ist die Suchfunktion vor der Suchfunktion.
+
+**Bibliografien und Kataloge.** Trithemius' Autorenverzeichnis von 1494 gehört an den Anfang dieser Linie. Ihren großen Moment hatte sie 1545, als Conrad Gessner in Zürich die *Bibliotheca universalis* veröffentlichte, den Versuch, alle bekannten Bücher in Latein, Griechisch und Hebräisch zu verzeichnen[16] — den Überblick über das Ganze behalten wollen, genau in dem Moment, in dem das unmöglich zu werden beginnt. Ab 1564 kamen die Messkataloge der Frankfurter Buchmesse dazu, gedruckte Listen der Neuerscheinungen.[17]
+
+**Der Name als Qualitätssignal.** Aldus Manutius, den Erasmus in derselben Schrift ausdrücklich lobt, gründete 1494/95 in Venedig eine Offizin, die vieles anders machte: sorgfältig edierte griechische und lateinische Texte, ein handliches Oktavformat, das man mitnehmen konnte, und ab 1501 eine neue, schmale Kursivschrift, geschnitten von Francesco Griffo. Sein Signet, Delphin und Anker, stand für *festina lente* — und für Qualität.[14] Erasmus reiste 1508 selbst nach Venedig und ließ die erweiterten *Adagia* dort drucken; er wusste, was dieser Name auf dem Titelblatt wert war.
+
+Und jetzt der Teil, den ich am aufschlussreichsten finde: Der Name war so viel wert, dass er gefälscht wurde. In Lyon erschienen Nachdrucke, die die aldinische Aufmachung kopierten, und Aldus sah sich genötigt, öffentlich vor diesen Fälschungen zu warnen und Erkennungsmerkmale zu nennen.[14] Ein Filter entsteht — und im selben Moment entsteht der Angriff auf den Filter. Wer heute überlegt, wie man KI-generierte Inhalte kennzeichnet, und wie lange es dauern wird, bis jemand die Kennzeichnung fälscht, findet das Muster hier schon vollständig ausgebildet, um 1503.
+
+**Die Zeitschrift und die Begutachtung.** 1665 erschienen im Abstand weniger Wochen das *Journal des sçavans* in Paris und die *Philosophical Transactions* der Royal Society in London.[18] Damit war eine Form da, die vorher nicht existierte: nicht das Buch, das man einmal schreibt, sondern die laufende, datierte, zitierbare Veröffentlichung, mit einem Herausgeber, der entscheidet, was hineinkommt. Die systematische Begutachtung durch Fachkollegen hat sich daraus über lange Zeit entwickelt. Sie ist ein Filter, kein Wahrheitsbeweis — dazu mehr im siebten Kapitel.
+
+Das ist ein Muster, das dich durch dieses Buch begleiten wird. **Auf eine Technikflut folgt nicht der Untergang, sondern die Erfindung von Filtern.** Immer. Und es dauert immer eine Weile, und in dieser Weile ist es tatsächlich unangenehm.
+
+Ich habe das im Kleinen erlebt, und die Parallele ist mir erst beim Schreiben dieses Kapitels aufgefallen. In einer Organisation, in der ich gearbeitet habe, gab es ein internes Wiki. Anfangs war es großartig: Endlich schrieb jemand auf, wie die Dinge funktionieren. Nach ein paar Jahren hatte es mehrere tausend Seiten, davon ein erheblicher Teil veraltet, doppelt oder von jemandem, der längst nicht mehr im Haus war. Die Suche fand alles und half bei nichts. Die Leute fingen wieder an, sich gegenseitig zu fragen — nicht weil das Wiki keine Antwort enthielt, sondern weil es zu viele enthielt. Gelöst wurde das durch Verantwortliche pro Seite, ein Ablaufdatum und ein halbes Jahr Aufräumen. Register, Titelseite, Verlagsruf. Nur mit Jira-Tickets.
+
+Wir stecken bei der KI genau in dieser Phase. Die Filter sind noch nicht da, oder sie sind schlecht, oder sie werden gerade erst erfunden. Herkunftsnachweise für Inhalte, Kennzeichnungspflichten, Prüfwerkzeuge, neue Formen von Redaktion. Wenn dich die Flut aus generierten Texten und Bildern nervt, dann nicht, weil das Problem unlösbar wäre, sondern weil wir mitten im Erasmus-Moment stecken. Die Register sind noch nicht geschrieben.
+
+## Was tatsächlich passierte
+
+Halten wir die Bilanz fest, denn ohne sie bleibt das alles Anekdote.
+
+Der Buchdruck hat nicht die Faulheit gebracht, die Trithemius fürchtete. Er hat in einem Ausmaß das Gegenteil bewirkt, das schwer zu überschätzen ist.
+
+Er machte die Reformation möglich. Als Martin Luther am 31. Oktober 1517 seine Thesen gegen den Ablasshandel formulierte, war das eine akademische Streitschrift auf Latein, gedacht für Fachleute. Was daraus wurde, verdankt sich der Presse. Luther begriff schnell, was das neue Medium konnte, und schrieb fortan kurz, deutsch und für den Druck: Flugschriften von wenigen Blatt, billig herzustellen, in Tagen nachzudrucken. Wittenberg, das vorher kaum ein Buchgewerbe hatte, wurde binnen weniger Jahre zu einem der wichtigsten Druckorte des Reiches. Der Buchhistoriker Andrew Pettegree hat das im Detail aufgearbeitet und kommt zu dem Befund, dass Luthers Schriften in den Jahren nach 1518 einen erheblichen Teil der gesamten deutschen Druckproduktion ausmachten.[20] Seine deutsche Übersetzung des Neuen Testaments, im September 1522 erschienen, war trotz eines für damalige Verhältnisse hohen Preises innerhalb weniger Monate vergriffen; noch im Dezember musste nachgedruckt werden.[20] Eine theologische Universitätsdebatte wurde zur europäischen Massenbewegung, und das lag nicht nur an der Theologie.
+
+Er machte die wissenschaftliche Revolution möglich. Der entscheidende Punkt ist unspektakulär und deshalb leicht zu übersehen: identische Kopien. Solange jede Abschrift ein bisschen anders war, konnte kein Forscher sicher sein, ob die Abweichung in der Sternentafel eine Beobachtung oder ein Kopierfehler war. Mit dem Druck lagen erstmals überall dieselben Tabellen, dieselben Diagramme, dieselben Zahlen auf dem Tisch, und man konnte aufeinander aufbauen, statt jeder mit seiner eigenen leicht verfälschten Fassung zu arbeiten. Bei Abbildungen wiegt das noch schwerer als bei Text: Ein Holzschnitt liefert in jedem Exemplar exakt dieselbe Linie. Das Jahr 1543 zeigt beides auf einmal — in Nürnberg erschien Kopernikus' *De revolutionibus orbium coelestium*, in Basel Vesalius' *De humani corporis fabrica* mit seinen anatomischen Tafeln.[21] Zwei Bücher, die man ohne Presse so nicht hätte in die Welt bringen können.
+
+Ganz unstrittig ist diese Deutung allerdings nicht, und das gehört dazu. Die Historikerin Elizabeth Eisenstein hat 1979 die große These formuliert, der Druck sei durch seine Standardisierung und Verbreitungsfähigkeit selbst ein Motor des Wandels gewesen. Ihr wurde später widersprochen, am gründlichsten von Adrian Johns, der zeigte, wie unzuverlässig frühe Drucke tatsächlich waren und dass Verlässlichkeit gerade keine Eigenschaft der Maschine war, sondern etwas, das Menschen mühsam herstellen mussten — durch Institutionen, Regeln und Ruf.[19] Mich überzeugt an diesem Streit, dass beide Seiten recht behalten, und zwar in genau der Reihenfolge, um die es in diesem Kapitel geht: Die Technik lieferte die Möglichkeit, die Filter lieferten das Vertrauen.
+
+Er machte auf lange Sicht die Massenalphabetisierung möglich, weil Lesenlernen sich erst lohnt, wenn es etwas zu lesen gibt. Das dauerte Jahrhunderte und lässt sich schlecht in eine einzige Zahl fassen. Aber die Richtung ist eindeutig, und der Anschub kam von Texten in der Volkssprache: Bibeln, Katechismen, Gesangbücher, Flugschriften, Kalender.
+
+Die Fähigkeit, die Trithemius verschwinden sah, verschwand tatsächlich. Kaum jemand kopiert heute Bücher von Hand ab. Aber der Tausch war so eindeutig zu unseren Gunsten, dass die Frage lächerlich wirkt.
+
+Nur ist damit die Rechnung noch nicht fertig.
+
+## Die unbequeme Hälfte
+
+Ich habe dir in der Einleitung versprochen, dass dieses Buch keine Beruhigungspille ist. Hier ist die erste Stelle, an der ich das einlösen muss, und ich tue es gern, weil sie mich selbst am meisten interessiert.
+
+Der Buchdruck hat nicht nur Aufklärung verbreitet. Er hat auch verbreitet, was schlecht war, und zwar mit derselben Effizienz.
+
+Das bekannteste Beispiel ist der *Hexenhammer*, der *Malleus Maleficarum*, ein Handbuch zur Verfolgung von Hexen. Verfasst hat ihn der Dominikaner Heinrich Kramer, latinisiert Institoris; der Erstdruck erschien 1486/87 in Speyer.[6][22] Zwei Dinge daran sind für unser Thema aufschlussreich.
+
+Erstens, wie das Buch sich Autorität beschaffte. Vorne eingebunden war die päpstliche Bulle *Summis desiderantes affectibus* von 1484, die Kramer selbst erwirkt hatte und die mit dem Buchinhalt nichts zu tun hatte — im gedruckten Band sah es aus, als segne der Papst den Text ab. Dazu kam eine Zustimmungserklärung der Kölner theologischen Fakultät, die die Forschung für zumindest teilweise manipuliert hält.[22] Autoritätssignale, angeheftet an einen Text, den sie nicht decken. Auch das kennst du in der heutigen Fassung: die Studie, die es nicht gibt, das Institut, das anders heißt, das Zitat, das der zitierte Fachmann nie gesagt hat.
+
+Zweitens, wie wenig der Ruf des Autors dagegen wog. Kramer war schon 1485 in Innsbruck gescheitert: Der dortige Bischof hatte seinen Hexenprozess abgebrochen und ihn des Landes verwiesen.[22] Der Mann war in Fachkreisen unten durch. Sein Buch lief trotzdem. Es erschien über die folgenden knapp zwei Jahrhunderte in mehreren Dutzend Auflagen, in zwei deutlich getrennten Wellen — eine um 1487 bis 1520, dann eine lange Pause, dann eine zweite ab den 1570er Jahren.[22] Handschriftlich hätte es wenige Leser gefunden. Gedruckt wurde es zu einem Werkzeug, das Verfolgungswissen standardisierte und in die Provinz trug.
+
+Und hier muss ich ehrlich bremsen, weil der Fall gern zu glatt erzählt wird. Historiker streiten über das Gewicht dieses einen Buches, und sie haben gute Gründe dafür. Der Höhepunkt der europäischen Hexenverfolgung lag ungefähr zwischen 1560 und 1630, also rund ein Jahrhundert nach dem Erstdruck. Die Schätzungen der Forschung für die Zahl der Hingerichteten in ganz Europa liegen meist im Bereich von vierzig- bis sechzigtausend Menschen.[23] Wer daraus eine gerade Linie vom Buch zum Scheiterhaufen zieht, macht es sich zu einfach; die Verfolgungen hatten wirtschaftliche, konfessionelle, rechtliche und lokale Ursachen, und mancherorts wurde ohne den *Malleus* verfolgt und anderswo mit ihm in der Hand nicht. Was sich belastbar sagen lässt, ist bescheidener und trotzdem hart genug: Der Druck machte ein bestimmtes Verfolgungswissen überregional verfügbar und wiederholbar. Er war neutral gegenüber dem Inhalt. Er skalierte Bibeln, und er skalierte Anleitungen zur Folter.
+
+Aber — und das ist der Teil, der in der empörten Kurzfassung fehlt — er skalierte auch den Widerspruch. 1563 erschien in Basel Johann Weyers *De praestigiis daemonum*, eine der frühen großen Streitschriften gegen die Hexenprozesse, verfasst von einem Arzt, der die Angeklagten für krank oder unschuldig hielt. 1631 veröffentlichte der Jesuit Friedrich Spee anonym die *Cautio Criminalis*, eine Abrechnung mit der Folterjustiz, geschrieben von jemandem, der Verurteilte zum Richtplatz begleitet hatte.[24] Beide wurden gedruckt, nachgedruckt, übersetzt und gelesen, und beide gehören zu den Kräften, die die Verfolgung am Ende gestoppt haben. Dieselbe Maschine, beide Richtungen. Das ist keine Entlastung, sondern eine Präzisierung — und sie erklärt, warum Verbieten nie die Antwort war.
+
+Dasselbe Doppelgesicht zeigen die konfessionellen Hetzschriften des 16. Jahrhunderts. Die Reformation war nicht nur die Verbreitung einer Lehre, sie war der erste Medienkrieg der europäischen Geschichte: Flugschriften und Karikaturen in Serie, mit Bildern, die auch der erreichte, der nicht lesen konnte. Das polarisierte einen Kontinent über mehr als hundert Jahre hinweg mit einer Wucht, die ohne billige Massendrucke unmöglich gewesen wäre. Wer heute über Desinformation im Netz klagt, beschreibt ein Problem, das mit Gutenberg beginnt, nicht mit Facebook.
+
+Und die Obrigkeit reagierte, wie Obrigkeiten reagieren: mit Kontrolle. Und zwar früh. Schon 1485 erließ der Mainzer Erzbischof Berthold von Henneberg ein Zensuredikt, das sich gegen volkssprachliche Übersetzungen richtete — dreißig Jahre nach der Gutenberg-Bibel. 1501 verfügte Papst Alexander VI. für die deutschen Kirchenprovinzen eine Vorabgenehmigungspflicht, 1515 machte das Fünfte Laterankonzil die Vorzensur allgemein. 1559 erschien unter Paul IV. der römische *Index Librorum Prohibitorum*, das Verzeichnis der verbotenen Bücher, 1564 folgte die Fassung des Konzils von Trient. Abgeschafft wurde der Index erst 1966.[25]
+
+In England ging man einen anderen, wirksameren Weg: 1557 erhielt die Londoner Buchdruckergilde, die Stationers' Company, ein königliches Privileg, das ihr das Druckgewerbe faktisch monopolisierte — und die Krone bekam damit eine Handvoll Leute, die sie kontrollieren musste, statt hunderter Drucker. Gegen die Lizenzpflicht, die daraus erwuchs, schrieb John Milton 1644 die *Areopagitica*, eine Verteidigung der Pressefreiheit, die er selbst ohne Lizenz drucken ließ.[25] Dass wir heute Meinungsfreiheit als Grundrecht formulieren, hat sehr viel damit zu tun, dass es nach Gutenberg erstmals etwas zu unterdrücken gab, das sich schlecht unterdrücken ließ.
+
+Nicht jede Regulierung war Unterdrückung. Aus demselben Instrumentarium entstand auch das, was wir heute Urheberrecht nennen. Venedig vergab schon 1469 ein Druckprivileg an Johannes von Speyer und erließ 1474 ein Patentgesetz; die Privilegien schützten zunächst den Drucker vor Nachdruck, nicht den Autor. Bis daraus ein Recht des Urhebers wurde, dauerte es bis 1710, als das englische *Statute of Anne* das erste moderne Urheberrechtsgesetz schuf.[26] Zweihundertvierzig Jahre von der ersten Schutzmaßnahme bis zum Prinzip. Wenn dir die aktuelle Debatte um KI und Urheberrecht zäh vorkommt: Sie ist zwei Jahre alt.
+
+Nebenbei bemerkt hat dieses Kontrollsystem am Ende auch Trithemius selbst erwischt. Seine *Steganographia*, das Buch über verschlüsselte Nachrichten, wurde 1606 gedruckt und landete auf dem Index.[11] Der Abt, der vor der Presse gewarnt hatte, wurde hundert Jahre nach seinem Tod von der Presse veröffentlicht und dafür verboten. Man müsste sich das ausdenken können.
+
+Die ehrliche Bilanz lautet also nicht „alles halb so wild". Sie lautet ungefähr so:
+
+Trithemius' Sorge um die geistige Disziplin: **überwiegend widerlegt**, aber im Kern auf etwas Reales zielend, das wir bis heute nicht ganz verstanden haben, nämlich den Zusammenhang zwischen Anstrengung und Verstehen.
+
+Erasmus' Sorge um die Qualitätsflut: **zutreffend**, aber lösbar, und gelöst durch neue Filter statt durch Verzicht.
+
+Die Sorge, dass die Presse gefährliches Wissen verbreitet: **voll zutreffend**, tatsächlich eingetreten, mit einem Leichenberg als Beleg — und trotzdem hat niemand mit klarem Verstand daraus geschlossen, den Buchdruck abzuschaffen. Stattdessen entstand über Jahrhunderte ein Gerüst aus Recht, Institutionen und Kulturtechniken, das den Schaden begrenzt, ohne den Nutzen zu töten.
+
+Merk dir dieses dritte Muster besonders gut. Es ist die Antwort auf die Frage, was man tun soll, wenn eine Technik echte Gefahren mitbringt. Nicht verbieten, nicht schönreden, sondern einhegen. Wir kommen im achten Kapitel darauf zurück, wenn es um den europäischen KI-Rechtsrahmen geht, und im zwölften, wenn ich dir sage, wovor ich tatsächlich Angst habe.
+
+## Und heute?
+
+Zurück in den Workshop, zurück zu dem Kollegen mit seiner sehr guten Frage.
+
+Was ich ihm damals geantwortet habe, war ehrlich gesagt nicht besonders gut. Irgendetwas mit „kommt drauf an, wie man es einsetzt", was stimmt und trotzdem nichts hilft. Heute würde ich anders antworten, und zwar so:
+
+Deine Frage ist fünfhundert Jahre alt, mindestens. Das ist kein Grund, sie wegzuwischen. Es ist ein Grund, sie genauer zu stellen.
+
+Denn schau, was in den Fällen dieses Kapitels wirklich passiert ist. Bei der Schrift und beim Buchdruck haben wir eine geistige Fähigkeit tatsächlich abgegeben. Das Auswendiglernen ganzer Epen, das Abschreiben als Denkübung, beides ist weg. Was wir dafür bekommen haben, war so überwältigend viel mehr, dass die Rechnung nicht knapp ausging, sondern eindeutig. Aber die Rechnung ging nur deshalb auf, weil sich um die neue Technik herum etwas gebildet hat: Titelseiten und Register, Kataloge und Bibliografien, Quellenkritik, Verlagsruf, Bibliotheken, Zensurstreit und Pressefreiheit, Urheberrecht, Zeitungswesen, Wissenschaftsbetrieb. Kein einziges dieser Dinge war eine Eigenschaft der Druckerpresse. Sie waren die Antwort der Gesellschaft auf die Druckerpresse, und die meisten von ihnen brauchten Jahrzehnte oder Jahrhunderte.
+
+Das ist der Grund, warum ich mit der KI zuversichtlich bin und trotzdem nicht entspannt. Zuversichtlich, weil das Muster stabil ist: Wir haben jede dieser Wellen nicht nur überstanden, sondern sind an ihr gewachsen. Nicht entspannt, weil das Wachsen nie von allein geschah. Es geschah, weil Menschen sich hingesetzt und Filter, Regeln und Fähigkeiten erfunden haben — und weil andere Menschen währenddessen den Schaden abbekamen, den die Lücke zwischen Technik und Filter erzeugte. Diese Lücke ist kein Betriebsunfall der Geschichte. Sie ist die Regel. Und in ihr leben wir gerade.
+
+Noch etwas nehme ich aus dem Fall Trithemius mit, ganz praktisch, aus meinem eigenen Berufsalltag.
+
+Ich habe schon oft erlebt, dass die schärfsten Kritiker einer Automatisierung nach ein paar Monaten ihre eifrigsten Nutzer waren. Nicht, weil man sie überredet hätte. Sondern weil sie im Umgang mit dem Ding merkten, wo es hilft und wo nicht, und weil aus einer diffusen Angst dabei ein konkretes Urteil wurde. Das ist der Unterschied zwischen Angst und Skepsis. Angst ist ein Gefühl über etwas, das man nicht kennt. Skepsis ist ein Urteil über etwas, das man kennt. Skepsis ist wertvoll, und ich hätte in meinem Beruf gern mehr davon. Angst ist meistens nur laut.
+
+Man erkennt sie daran, dass ihre Einwände mit der Zeit präziser werden. Wer nach einem halben Jahr Nutzung immer noch dasselbe sagt wie am ersten Tag, hat nicht hingeschaut. Wer sagt: „Bei Textentwürfen spart es mir eine Stunde, bei Zahlen traue ich ihm keinen Meter weit", der hat gearbeitet.
+
+Trithemius hat gedruckt, weil er es ausprobiert hat. Und mein Verdacht ist: Hätte er zwanzig Jahre länger gelebt — er starb 1516, im Jahr, in dem Erasmus sein griechisches Neues Testament herausbrachte —, hätte er seine Streitschrift nicht widerrufen, aber er hätte sie präziser geschrieben. Er hätte nicht mehr gegen den Druck argumentiert, sondern für gute Drucker. Genau wie Erasmus es dann tat.
+
+Damit ist der Reflex freigelegt: Neue Technik zum Umgang mit Wissen löst zuverlässig die Sorge aus, dass wir das Denken verlernen. Der nächste Schritt ist zu verstehen, warum dieser Reflex auch dann anspringt, wenn es gar nicht ums Denken geht, sondern nur um Geschwindigkeit, um Strom in Leitungen, um eine Maschine, die schneller läuft als ein Pferd. Dafür verlassen wir das Kloster und steigen in einen Zug.
+
+---
+
+## Quellen zu Kapitel 1
+
+[1] Johannes Trithemius: *De laude scriptorum* („Lob der Schreiber"), verfasst 1492, gedruckt 1494 bei Peter von Friedberg, Mainz. Argumente (Müßiggang, Qualität, Haltbarkeit) und Druck-Paradox nach: Wikipedia (en) *De laude scriptorum / Johannes Trithemius*; History of Information, *Trithemius Favors Vellum over Paper*. → QUELLEN.md Nr. 1.
+[2] purplemotes.net: *Trithemius on printing, scribes, and reason*, 2012. — Ergänzend zur Eigennutzung des Drucks durch Trithemius. → QUELLEN.md Nr. 2.
+[3] ▲ Johannes Trithemius: *In Praise of Scribes (De Laude Scriptorum)*, hrsg. Klaus Arnold, Übers. Roland Behrendt, Coronado Press, Lawrence/Kansas 1974; dt. krit. Ausgabe Arnold, Würzburg 1973. → QUELLEN.md Nr. 3. **Wortlaut der Paraphrasen vor Drucklegung an der Edition gegenlesen.**
+[4] ▲ Platon: *Phaidros* 274c–275b (Theuth-und-Thamus-Mythos; Schrift erzeuge Vergessen, „scheinbar weise statt weise"). → QUELLEN.md Nr. 111. **Deutsche Übersetzung/Stellenangabe vor Drucklegung festlegen (Schleiermacher o. neuere Ausgabe).**
+[5] ▲ Erasmus von Rotterdam: „Schwärme neuer Bücher", Adagium *Festina lente*, *Adagia*-Ausgabe 1525/26. → QUELLEN.md Nr. 4. **Wortlaut verifizieren.**
+[6] ▲ Heinrich Kramer (Institoris): *Malleus Maleficarum* („Hexenhammer"), Erstdruck 1486/87; zahlreiche gedruckte Auflagen als Verbreitungsfaktor. → QUELLEN.md Nr. 112. **Auflagenzahl und Wirkungsgrad an Standardliteratur absichern; Forschungsstreit über das Gewicht des Einzelwerks im Text bereits kenntlich gemacht.**
+[7] ▲ Zur Inkunabelzeit: Gutenberg-Bibel (42 Zeilen), Mainz um 1454/55; Ausbreitung des Drucks (u. a. Köln und Subiaco 1465, Venedig 1469, Paris 1470, Krakau 1473, Westminster/Caxton 1476); Druckorte bis 1500; Zahl der verzeichneten Inkunabel-Ausgaben und Spannbreite der Auflagenschätzungen. → QUELLEN.md Nr. 119. **Alle Jahres-, Städte- und Mengenangaben am Incunabula Short Title Catalogue gegenlesen; Auflagenschätzung im Text bewusst als Spanne geführt.**
+[8] ▲ Zur Werkstatt: Arbeitsgang einer frühen Offizin (Setzkasten, Winkelhaken, Form, Lederballen mit Hundehaar, angefeuchtetes Papier, zwei Züge pro Bogen), Leistung einer Handpresse, Größenordnung der Offizin Anton Kobergers in Nürnberg (*Schedelsche Weltchronik*, 1493). → QUELLEN.md Nr. 120. **Rekonstruktion nach Bildquellen und Handbüchern; Stundenleistung und Kobergers Betriebsgröße absichern.**
+[9] ▲ Zur Biografie: Johannes Trithemius, geb. 1462 in Trittenheim, ab 1483 Abt von Sponheim, 1506 Weggang nach Würzburg (St. Jakob), gest. 1516; Ausbau der Klosterbibliothek von wenigen Dutzend auf rund zweitausend Bände. → QUELLEN.md Nr. 121. **Bibliotheksumfang und Datierungen an der Arnold-Literatur prüfen.**
+[10] ▲ Johannes Trithemius: *Liber de scriptoribus ecclesiasticis*, Basel 1494 — frühe gedruckte Bibliografie. → QUELLEN.md Nr. 122. **Druckort, Drucker und Umfang verifizieren.**
+[11] ▲ Johannes Trithemius: *Steganographia*, um 1499 verfasst, Erstdruck 1606, kurz darauf indiziert. → QUELLEN.md Nr. 123. **Druck- und Indizierungsjahr verifizieren.**
+[12] ▲ Platon: *Phaidros* — Rahmenhandlung (Ilissos, Platane) sowie 275c–276a: Schrift als Gemälde, das auf Fragen schweigt; der Text kann seine Leser nicht wählen und sich nicht verteidigen; die „lebendige" Rede in der Seele. → QUELLEN.md Nr. 111 (erweitert). **Stellenangaben und Übersetzung festlegen; im Text durchgehend Paraphrase, kein Wortzitat.**
+[13] ▲ Platon (zugeschrieben): *Siebter Brief* 341c–d — von den letzten Dingen gebe es keine Schrift. Echtheit in der Forschung umstritten; im Text ausdrücklich als umstritten gekennzeichnet. → QUELLEN.md Nr. 124.
+[14] ▲ Aldus Manutius und Erasmus: aldinische Offizin in Venedig ab 1494/95, Oktavformat, Kursive ab 1501 (Schnitt Francesco Griffo), Signet Delphin und Anker für *festina lente*; Erasmus' Aufenthalt in Venedig 1508 und die dort gedruckte erweiterte *Adagia*-Ausgabe; Wachstum der *Adagia*; aldinische Warnung vor Lyoner Nachdrucken. → QUELLEN.md Nr. 125, ergänzend Nr. 4. **Datierungen und Fälschungswarnung verifizieren.**
+[15] Ann Blair: *Too Much to Know. Managing Scholarly Information before the Modern Age*. Yale University Press, New Haven 2010. — Standardwerk zur frühneuzeitlichen Informationsfülle und ihren Hilfsmitteln (Register, Florilegien, Kompendien). → QUELLEN.md Nr. 126.
+[16] ▲ Conrad Gessner: *Bibliotheca universalis*, Zürich 1545 — Versuch eines Gesamtverzeichnisses der lateinischen, griechischen und hebräischen Literatur. → QUELLEN.md Nr. 127. **Umfangsangaben vor Drucklegung prüfen.**
+[17] ▲ Gedruckte Messkataloge der Frankfurter Buchmesse ab 1564 (Georg Willer, Augsburg). → QUELLEN.md Nr. 128. **Jahr und Urheber verifizieren.**
+[18] ▲ *Journal des sçavans* (Paris, Januar 1665) und *Philosophical Transactions of the Royal Society* (London, ab 6. März 1665, hrsg. Henry Oldenburg) als erste wissenschaftliche Zeitschriften; systematische Begutachtung erst später. → QUELLEN.md Nr. 129. **Daten verifizieren; Aussage zur Begutachtung bewusst unbestimmt gehalten.**
+[19] Elizabeth L. Eisenstein: *The Printing Press as an Agent of Change*. Cambridge University Press 1979; dagegen Adrian Johns: *The Nature of the Book. Print and Knowledge in the Making*. University of Chicago Press 1998. — Forschungsstreit über „fixity"/Standardisierung als Eigenschaft des Drucks; im Text als Streit kenntlich gemacht. → QUELLEN.md Nr. 130.
+[20] ▲ Andrew Pettegree: *Brand Luther*. Penguin, New York 2015. — Wittenberg als Druckort, Luthers Nutzung der Flugschrift, Anteil seiner Schriften an der deutschen Druckproduktion nach 1518, Septembertestament 1522 und Nachdruck im Dezember. → QUELLEN.md Nr. 131. **Anteils- und Auflagenangaben an Pettegree gegenlesen; im Text bewusst ohne Prozentzahl formuliert.**
+[21] ▲ Nikolaus Kopernikus: *De revolutionibus orbium coelestium*, Nürnberg 1543; Andreas Vesalius: *De humani corporis fabrica*, Basel 1543. → QUELLEN.md Nr. 132. **Drucker und Erscheinungsdaten verifizieren.**
+[22] ▲ Zum *Malleus Maleficarum* im Detail: Erstdruck Speyer 1486/87; Voranstellung der Bulle *Summis desiderantes affectibus* (1484); umstrittene Approbation der Kölner theologischen Fakultät; Kramers Scheitern in Innsbruck 1485; Auflagengeschichte in zwei Wellen. → QUELLEN.md Nr. 133. **Druckerangabe, Auflagenverteilung und der Manipulationsvorwurf zur Kölner Approbation an der Standardliteratur (Behringer, Levack, Mackay) absichern.**
+[23] ▲ Zur Chronologie und Größenordnung der europäischen Hexenverfolgung: Höhepunkt etwa 1560–1630; Schätzungen der Hinrichtungszahlen meist zwischen 40.000 und 60.000. → QUELLEN.md Nr. 134. **Forschungsschätzungen mit erheblicher Streuung, im Text als solche geführt; an Behringer/Levack festmachen.**
+[24] ▲ Johann Weyer: *De praestigiis daemonum*, Basel 1563; Friedrich Spee: *Cautio Criminalis*, Rinteln 1631 (anonym erschienen). — Gedruckte Gegenschriften zur Hexenverfolgung. → QUELLEN.md Nr. 135. **Erscheinungsorte und -jahre verifizieren.**
+[25] ▲ Zur Zensurgeschichte: Zensuredikt des Mainzer Erzbischofs Berthold von Henneberg 1485/86; Bulle *Inter multiplices* Alexanders VI. 1501 (Vorabgenehmigung für die deutschen Kirchenprovinzen); Fünftes Laterankonzil 1515 (allgemeine Vorzensur); römischer *Index Librorum Prohibitorum* 1559 unter Paul IV., tridentinische Fassung 1564, Abschaffung 1966; Privileg der Stationers' Company 1557; John Milton: *Areopagitica*, London 1644, ohne Lizenz gedruckt. → QUELLEN.md Nr. 136. **Sämtliche Jahresangaben und die Zuordnung der Bullen vor Drucklegung einzeln prüfen.**
+[26] ▲ Zu Privilegien und Urheberrecht: venezianisches Druckprivileg für Johannes von Speyer 1469 und venezianisches Patentgesetz 1474; englisches *Statute of Anne* 1710 als erstes modernes Urheberrechtsgesetz. → QUELLEN.md Nr. 137. **Jahresangaben verifizieren.**
+
+*Nicht belegt und daher im Text ausdrücklich als persönliche Erfahrung bzw. Meinung des Autors gekennzeichnet:* die Workshop-Szene, die Wiki-Episode, die Beobachtung zu Kritikern, die zu Nutzern werden, sowie die Einschätzungen zum Ausgang des Eisenstein-Johns-Streits und zu Trithemius' hypothetischer späterer Haltung.
