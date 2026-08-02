@@ -1,10 +1,10 @@
-# Prüfliste vor Drucklegung (Phase 6/7)
+# Prüfliste vor Drucklegung
 
-**Stand:** Manuskript vollständig, Phase 5 abgeschlossen.
+**Stand:** Manuskript vollständig, alle Phasen abgeschlossen.
 
-In der Recherche war der direkte Volltext-Abruf durch die Egress-Policy blockiert (HTTP 403). Alle Quellen wurden über den Suchindex identifiziert und mehrfach quergeprüft, aber die unten aufgeführten Belege — vor allem **Wortlaut-Zitate, Einzelanekdoten und exakte Zahlen** — sind vor Drucklegung am Volltext gegenzulesen. Es wurde nichts erfunden; unsichere Stellen sind bereits im Buchtext als unsicher gekennzeichnet.
+In der Recherche war der direkte Volltext-Abruf durch die Egress-Policy blockiert (HTTP 403). Alle Quellen wurden über den Suchindex identifiziert und mehrfach quergeprüft; die folgenden Belege — überwiegend Wortlaut-Zitate, Einzelanekdoten und exakte Zahlen — sind vor Drucklegung am Volltext gegenzulesen. Es wurde nichts erfunden; unsichere Stellen sind bereits im Buchtext gekennzeichnet.
 
-Zusätzlich zu prüfen: `03_pruefung/rechenbeispiel_kap8_kontrollwerte.md` (konstruiertes Zahlenbeispiel nachrechnen lassen).
+Ebenfalls zu prüfen: `rechenbeispiel_kap8_kontrollwerte.md` (konstruiertes Zahlenbeispiel nachrechnen lassen) sowie die KDP-Werte in `05_kdp/KDP_PAKET.md`.
 
 ---
 
@@ -150,8 +150,8 @@ Zusätzlich zu prüfen: `03_pruefung/rechenbeispiel_kap8_kontrollwerte.md` (kons
 - [5] ▲ Rückverweis auf Kapitel 1 (Zensurbehörden, Druckprivilegien, Index der verbotenen Bücher als unmittelbare Machtreaktion auf den Buchdruck). — **Diese Angabe ist in Kapitel 1 ohne Einzelbeleg dargestellt; vor Drucklegung mit fachhistorischer Standardliteratur zur frühneuzeitlichen Zensur und zum *Index Librorum Prohibitorum* zu unterlegen. Das gilt ausdrücklich auch für die in diesem Kapitel ergänzte Bestimmung des Druckprivilegs als verliehenes Monopol in der Hand derselben Instanz, die über die Zulässigkeit von Inhalten entschied.**
 - [16] ▲ Kosmyna, N. u. a. (MIT Media Lab): *Your Brain on ChatGPT: Accumulation of Cognitive Debt…*, 2025, arXiv:2506.08872. — EEG-Studie, n = 54; schwächste neuronale Konnektivität bei LLM-Nutzung; Begriff „cognitive debt". **Preprint, kleine Stichprobe, methodische Kritik in einem Folge-Kommentar; im Text ausdrücklich als Hinweis, nicht als Beleg gekennzeichnet.** → QUELLEN.md Nr. 66.
 - [17] ▲ Platon: *Phaidros* 274c–275b (Theuth und Thamus; die Schrift mache „scheinbar weise statt weise"). Ausführlich in Kapitel 1. → QUELLEN.md Nr. 111. **Deutsche Übersetzung und Stellenangabe vor Drucklegung festlegen; im Text Paraphrase, kein Wortzitat.**
-- [21] ▲ *International AI Safety Report 2025* (Bengio u. a.) sowie Berichterstattung zu den Fortschreibungen 2025/2026. — Belegte Missbrauchsrisiken: Erleichterung und Beschleunigung von Cyberangriffen mit demonstrierten Fähigkeiten bei Aufgaben geringer und mittlerer Komplexität; im Bereich Bio/Chemie „einige Fähigkeit" bei Anleitung und Fehlerbehebung zu bekannten Waffen; 2025 veröffentlichten mehrere Anbieter Modelle bewusst mit zusätzlichen Sicherheitsvorkehrungen, weil Tests vor der Veröffentlichung eine substanzielle Hilfe für Laien nicht ausschließen konnten. → QUELLEN.md Nr. 73, 74. **Die Angabe zu den Zusatz-Safeguards 2025 stammt aus der Berichterstattung über die Fortschreibungen; vor Drucklegung am Originalbericht verifizieren.**
-- [23] ▲ IEA: *Energy and AI* (April 2025) sowie IEA-Meldung zum Jahr 2025 („Data centre electricity use surged in 2025"). — Stromverbrauch KI-fokussierter Rechenzentren 2025 um rund 50 % gestiegen; rund 1.200 TWh bis 2035; Erneuerbare decken knapp die Hälfte der Zusatznachfrage, dahinter Erdgas und Kohle, Kernkraft gegen Ende des Jahrzehnts; Energieverbrauch pro KI-Aufgabe sinkt in beispiellosem Tempo. → QUELLEN.md Nr. 86 und Nr. 119. **2025er-Zuwachszahl und Energiequellen-Aufteilung vor Drucklegung an der IEA-Primärquelle gegenlesen.** — *Die Deutung des Ausbaus als Verhandlungsposition gegenüber Netzbetreibern, Kommunen und Regierungen ist eine Einschätzung des Autors.*
+- [21] ▲ *International AI Safety Report 2025* (Bengio u. a.) sowie Berichterstattung zu den Fortschreibungen 2025/2026. — Belegte Missbrauchsrisiken: Erleichterung und Beschleunigung von Cyberangriffen bei Aufgaben geringer und mittlerer Komplexität; im Bereich Bio/Chemie „einige Fähigkeit" bei Anleitung und Fehlerbehebung zu bekannten Waffen; 2025 veröffentlichten mehrere Anbieter Modelle mit zusätzlichen Sicherheitsvorkehrungen, weil Tests eine substanzielle Hilfe für Laien nicht ausschließen konnten. → QUELLEN.md Nr. 73, 74. **Die Angabe zu den Zusatz-Safeguards 2025 stammt aus der Berichterstattung; vor Drucklegung am Originalbericht verifizieren.**
+- [23] ▲ IEA: *Energy and AI* (April 2025) sowie IEA-Meldung zum Jahr 2025 („Data centre electricity use surged in 2025"). — Stromverbrauch KI-fokussierter Rechenzentren 2025 um rund 50 % gestiegen; rund 1.200 TWh bis 2035; Erneuerbare decken knapp die Hälfte der Zusatznachfrage, dahinter Erdgas und Kohle, Kernkraft gegen Ende des Jahrzehnts; Energieverbrauch pro KI-Aufgabe sinkt in beispiellosem Tempo. → QUELLEN.md Nr. 86 und Nr. 165. **2025er-Zuwachszahl und Energiequellen-Aufteilung vor Drucklegung an der IEA-Primärquelle gegenlesen.**
 - [28] ▲ IAB: *KI und Arbeitsmarkt*, IAB-Forschungsbericht 2025. — Beschäftigungswachstum in Berufen mit hoher KI-Exposition +5,9 % gegenüber +2,5 % (geringe) und −1,7 % (ohne Exposition). → QUELLEN.md Nr. 58. **Einzelwerte vor Drucklegung am Forschungsbericht verifizieren.**
 
 ## 13_schluss  (4 Stellen)
@@ -163,4 +163,4 @@ Zusätzlich zu prüfen: `03_pruefung/rechenbeispiel_kap8_kontrollwerte.md` (kons
 
 ---
 
-**Summe: 111 markierte Stellen in den Kapiteln.**
+**Summe: 111 markierte Stellen.**
