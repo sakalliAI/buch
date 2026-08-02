@@ -38,6 +38,10 @@ Was er lieferte, war also kein Bericht, sondern eine Pointe, und die Pointe hatt
 
 Zweifel an der Echtheit gab es schon um 1920.[1] Hundert Jahre. Die Geschichte hat sie überlebt, und sie hat sie mühelos überlebt.
 
+Im Umlauf sind neben den Bretterwänden noch andere Tempo-Schreckensbilder aus jener Zeit: dass der Fahrtwind die Reisenden ersticken lasse, dass Menschen bei solchen Geschwindigkeiten zerplatzen könnten. Ich führe sie hier nur als das an, was ich von ihnen sicher weiß, nämlich als kolportierte Motive, deren Beleglage ich nicht besser einschätzen kann als die der Bretterwand-Warnung. Vielleicht hat jemand so etwas gesagt. Wahrscheinlich sogar; in jeder Umbruchszeit sagt irgendwer irgendwas. Nur ist „irgendwer hat mal" keine Quelle. Wenn dir eines dieser Zitate begegnet, frag nach der Fundstelle, und beobachte, wie oft du keine bekommst.
+
+Und noch etwas fällt beim Nachrecherchieren auf, und es ist ein bisschen bitter. Über die Legende weiß ich inzwischen mehr als über die Sache selbst. Wovor die Leute in Nürnberg und Fürth 1835 tatsächlich Angst hatten, wie viele es waren, wie lange es anhielt — dazu finde ich sehr viel weniger Handfestes als zu der Warnung, die es nie gab. Die Erfindung ist besser dokumentiert als die Wirklichkeit. Das liegt nicht an den Archiven. Das liegt daran, dass die Erfindung erzählbar war und die Wirklichkeit nicht.
+
 ### Wie eine Legende arbeitet
 
 Das ist die Frage, die mich an dem Fall inzwischen mehr interessiert als der Fall selbst: Warum stirbt so etwas nicht?
@@ -52,7 +56,11 @@ Drittens, und das ist der wichtigste Grund: Sie erledigt in einem Satz eine ganz
 
 Viertens: Sie hat einen Beruf. Eine Anekdote, die man gebrauchen kann, wird gebraucht. Die Eisenbahnlegende taucht seit Jahrzehnten immer dann wieder auf, wenn eine neue Technik umstritten ist; in der deutschen Mobilfunkdebatte etwa wurde sie routiniert als Analogie eingesetzt, um Bedenkenträger vorzuführen.[12] Für Impfungen, Gentechnik oder KI funktioniert sie genauso, weil sie inhaltlich leer ist und deshalb überall passt. Das ist die eigentliche Ironie: Eine erfundene Warnung dient seit über hundert Jahren als Beweismittel gegen echte Warnungen.
 
+Fünftens, und das ist die Stelle, an der Aufklärung an ihre Grenze kommt: Die Richtigstellung reist nicht mit. „Diese Warnung ist wahrscheinlich erfunden, es gibt keine Archivbelege und die zitierte Behörde ist nicht nachweisbar" ist ein korrekter Satz und ein miserabler Vortragseinstieg. Er hat keine Pointe, er braucht Erläuterung, und er lässt das Publikum mit weniger Gewissheit zurück, als es vorher hatte. Die Legende bietet einen Lacher, die Korrektur bietet Hausaufgaben. Man muss kein Zyniker sein, um zu ahnen, welche der beiden sich schneller verbreitet.
+
 Und eine Sache noch, die ich mir selbst vorwerfe. Die Prüfung hätte mich nichts gekostet. Nicht drei Wochen Archivarbeit, nicht den Zugriff auf Spezialliteratur. Einen Abend. Der Grund, warum ich sie nicht gemacht habe, war nicht Zeitmangel, sondern dass ich die Folie mochte.
+
+Was ich an diesem Abend tatsächlich getan habe, war unspektakulär, und ich schreibe es auf, weil du es genauso machen kannst. Ich habe den angeblichen Wortlaut gesucht und geschaut, wer ihn wo zuerst gebracht hat. Ich bin auf lauter Texte gestoßen, die einander zitierten und irgendwann bei niemandem endeten. Dann habe ich den Namen der Behörde gesucht statt des Zitats, was der eigentliche Trick ist: Institutionen hinterlassen Akten, Etats, Personallisten. Wenn eine Behörde keine Spuren hat, hat sie meistens nicht existiert. Und zuletzt habe ich nach der Fachliteratur zur Ludwigsbahn gesucht, also nach den Leuten, die sich beruflich damit befassen, statt nach den Leuten, die die Anekdote benutzen. Drei Schritte. Keiner davon verlangt einen Bibliotheksausweis.
 
 Halten wir fest, was hier eigentlich passiert ist. Eine Erzählung über dumme Technikangst hat sich als das erwiesen, was sie den Ärzten von 1835 vorwirft: als unbelegte Behauptung, die alle nachplappern, weil sie so gut ins Weltbild passt. Der Spott über die Angst war selbst nicht besser recherchiert als die Angst.
 
